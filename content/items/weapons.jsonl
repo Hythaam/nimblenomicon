@@ -1,0 +1,40 @@
+{
+  "template": "weapon",
+  "search_category": "item",
+  "label": "Dagger",
+  "content": {
+    "damage": "1d4+DEX Piercing",
+    "properties": ["Light", "[Thrown](rules-cards/thrown.json) 4"],
+    "cost": "3 gp"
+  }
+}
+{
+  "template": "weapon",
+  "search_category": "item",
+  "label": "Sickle",
+  "content": {
+    "damage": "1d4+DEX Slashing",
+    "properties": ["[Vicious](rules-cards/vicious.json)"],
+    "cost": "10 gp"
+  }
+}
+{
+  "template": "weapon",
+  "search_category": "item",
+  "label": "Club/Mace",
+  "content": {
+    "damage": "1d6+STR Bludgeoning",
+    "cost": "2 gp"
+  }
+}
+{
+  "template": "weapon",
+  "search_category": "item",
+  "label": "Greatsword",
+  "content": {
+    "damage": "3d6+STR Slashing/Piercing",
+    "properties": ["2-Handed (Req. 2 STR)"],
+    "cost": "120 gp"
+  }
+}
+

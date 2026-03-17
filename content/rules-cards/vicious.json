@@ -1,0 +1,6 @@
+{
+  "template": "definition",
+  "search_category": "rules",
+  "label": "Vicious",
+  "content": "Roll 1 additional die whenever you roll crit damage."
+}

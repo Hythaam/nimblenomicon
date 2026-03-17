@@ -1,0 +1,6 @@
+{
+  "template": "definition",
+  "search_category": "rules",
+  "label": "Thrown",
+  "content": "Treat a melee weapon as if it had Range. Once thrown, you no longer have it!"
+}
