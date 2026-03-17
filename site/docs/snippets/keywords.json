@@ -1,0 +1,1104 @@
+[
+  {
+    "id": "advantage",
+    "category": "keyword",
+    "title": "Advantage X",
+    "aliases": [
+      "adv",
+      "advantage"
+    ],
+    "tags": [
+      "keyword",
+      "dice",
+      "mechanic"
+    ],
+    "summary": "Roll X additional dice and drop the X lowest dice.",
+    "tooltipBody": "Roll X additional dice and drop the X lowest dice (removing dice from the left to right in the case of a tie).",
+    "body": "Roll X additional dice and drop the X lowest dice (removing dice from the left to right in the case of a tie).",
+    "relatedIds": [
+      "disadvantage",
+      "distracted"
+    ]
+  },
+  {
+    "id": "disadvantage",
+    "category": "keyword",
+    "title": "Disadvantage X",
+    "aliases": [
+      "disadv",
+      "disadvantage"
+    ],
+    "tags": [
+      "keyword",
+      "dice",
+      "mechanic"
+    ],
+    "summary": "Roll X additional dice and drop the X highest dice.",
+    "tooltipBody": "Roll X additional dice and drop the X highest dice.",
+    "body": "Roll X additional dice and drop the X highest dice.",
+    "relatedIds": [
+      "advantage"
+    ]
+  },
+  {
+    "id": "blindsight",
+    "category": "keyword",
+    "title": "Blindsight X",
+    "aliases": [],
+    "tags": [
+      "keyword",
+      "sense",
+      "combat"
+    ],
+    "summary": "You can sense creatures and obstacles normally within X spaces, ignoring Blinded, darkness, and invisibility.",
+    "tooltipBody": "You can sense creatures and obstacles normally within X spaces, ignoring Blinded, darkness, and invisibility.",
+    "body": "You can sense creatures and obstacles normally within X spaces, ignoring Blinded, darkness, and invisibility.",
+    "relatedIds": [
+      "darkvision",
+      "blinded",
+      "invisible"
+    ]
+  },
+  {
+    "id": "darkvision",
+    "category": "keyword",
+    "title": "Darkvision X",
+    "aliases": [],
+    "tags": [
+      "keyword",
+      "sense",
+      "combat"
+    ],
+    "summary": "Can see normally in the dark, up to X spaces.",
+    "tooltipBody": "Can see normally in the dark, up to X spaces.",
+    "body": "Can see normally in the dark, up to X spaces.",
+    "relatedIds": [
+      "blindsight",
+      "blinded"
+    ]
+  },
+  {
+    "id": "concentration",
+    "category": "keyword",
+    "title": "Concentration",
+    "aliases": [
+      "concentrate"
+    ],
+    "tags": [
+      "keyword",
+      "spellcasting",
+      "mechanic"
+    ],
+    "summary": "Can only Concentrate on 1 thing at a time. DC 10 STR save when crit or lose concentration.",
+    "tooltipBody": "Can only Concentrate on 1 thing at a time. DC 10 STR save when crit or lose concentration.",
+    "body": "Can only Concentrate on 1 thing at a time. DC 10 STR save when crit or lose concentration.",
+    "relatedIds": [
+      "cast-spell",
+      "mana"
+    ]
+  },
+  {
+    "id": "cover",
+    "category": "keyword",
+    "title": "Cover",
+    "aliases": [],
+    "tags": [
+      "keyword",
+      "combat",
+      "defense"
+    ],
+    "summary": "If partially obscured, incoming attacks have disadvantage. If completely obscured, cannot be targeted.",
+    "tooltipBody": "If partially obscured, incoming attacks have disadvantage. If completely obscured, cannot be targeted.",
+    "body": "If partially obscured, incoming attacks have disadvantage. If completely obscured, cannot be targeted.",
+    "relatedIds": [
+      "advantage",
+      "disadvantage",
+      "invisible"
+    ]
+  },
+  {
+    "id": "difficult-terrain",
+    "category": "keyword",
+    "title": "Difficult Terrain",
+    "aliases": [
+      "difficult terrain"
+    ],
+    "tags": [
+      "keyword",
+      "movement",
+      "combat"
+    ],
+    "summary": "Speed halved while here (e.g., moving through the space of an enemy).",
+    "tooltipBody": "Speed halved while here. (e.g., moving through the space of an enemy).",
+    "body": "Speed halved while here. (e.g., moving through the space of an enemy).",
+    "relatedIds": [
+      "hampered",
+      "slowed",
+      "prone"
+    ]
+  },
+  {
+    "id": "resistance",
+    "category": "keyword",
+    "title": "Resistance",
+    "aliases": [],
+    "tags": [
+      "keyword",
+      "defense",
+      "damage"
+    ],
+    "summary": "Take half as much damage.",
+    "tooltipBody": "Take half as much damage.",
+    "body": "Take half as much damage.",
+    "relatedIds": [
+      "vulnerable"
+    ]
+  },
+  {
+    "id": "vulnerable",
+    "category": "keyword",
+    "title": "Vulnerable",
+    "aliases": [
+      "vulnerability"
+    ],
+    "tags": [
+      "keyword",
+      "defense",
+      "damage"
+    ],
+    "summary": "When vulnerable to a damage type, that damage ignores armor; if unarmored, take double damage instead.",
+    "tooltipBody": "When a creature is vulnerable to a damage type, that kind of damage ignores its armor; if unarmored, they take double the damage instead.",
+    "body": "When a creature is vulnerable to a damage type, that kind of damage ignores its armor; if unarmored, they take double the damage instead.",
+    "relatedIds": [
+      "resistance"
+    ]
+  },
+  {
+    "id": "reach",
+    "category": "keyword",
+    "title": "Reach X",
+    "aliases": [],
+    "tags": [
+      "keyword",
+      "combat",
+      "range"
+    ],
+    "summary": "The area within X spaces around a character; forming your choice of a cube or sphere.",
+    "tooltipBody": "The area within X spaces around a character; forming your choice of a cube or sphere.",
+    "body": "The area within X spaces around a character; forming your choice of a cube or sphere.",
+    "relatedIds": [
+      "range",
+      "line",
+      "cone"
+    ]
+  },
+  {
+    "id": "range",
+    "category": "keyword",
+    "title": "Range X",
+    "aliases": [],
+    "tags": [
+      "keyword",
+      "combat",
+      "ranged"
+    ],
+    "summary": "Ranged attacks are made with disadvantage if ANY enemy is adjacent. Range can be extended.",
+    "tooltipBody": "Ranged attacks are made with disadvantage if ANY enemy is adjacent. Range can be extended.",
+    "body": "Ranged attacks are made with disadvantage if ANY enemy is adjacent. Range can be extended.",
+    "relatedIds": [
+      "reach",
+      "disadvantage",
+      "cover"
+    ]
+  },
+  {
+    "id": "teleport",
+    "category": "keyword",
+    "title": "Teleport",
+    "aliases": [],
+    "tags": [
+      "keyword",
+      "movement",
+      "spellcasting"
+    ],
+    "summary": "Move instantaneously. Does not provoke opportunity attacks.",
+    "tooltipBody": "Move instantaneously. Does not provoke opportunity attacks.",
+    "body": "Move instantaneously. Does not provoke opportunity attacks.",
+    "relatedIds": [
+      "move"
+    ]
+  },
+  {
+    "id": "temp-hp",
+    "category": "keyword",
+    "title": "Temp HP",
+    "aliases": [
+      "temporary hp",
+      "temporary hit points"
+    ],
+    "tags": [
+      "keyword",
+      "hp",
+      "defense"
+    ],
+    "summary": "HP that do not replenish.",
+    "tooltipBody": "HP that do not replenish.",
+    "body": "HP that do not replenish.",
+    "relatedIds": [
+      "wounded",
+      "dying"
+    ]
+  },
+  {
+    "id": "wound",
+    "category": "keyword",
+    "title": "Wound",
+    "aliases": [
+      "wounds"
+    ],
+    "tags": [
+      "keyword",
+      "hp",
+      "combat"
+    ],
+    "summary": "A measure of how close a hero is to death. Typically 6 and you're dead.",
+    "tooltipBody": "A measure of how close a hero is to death. Typically 6 and you're dead.",
+    "body": "A measure of how close a hero is to death. Typically 6 and you're dead.",
+    "relatedIds": [
+      "wounded",
+      "dying",
+      "bloodied",
+      "temp-hp"
+    ]
+  },
+  {
+    "id": "knockback",
+    "category": "keyword",
+    "title": "Knockback/Push X",
+    "aliases": [
+      "push",
+      "knockback"
+    ],
+    "tags": [
+      "keyword",
+      "combat",
+      "movement"
+    ],
+    "summary": "Forcibly move a creature X spaces, ignoring Difficult Terrain.",
+    "tooltipBody": "Forcibly move a creature X spaces, ignoring Difficult Terrain. Other creatures or the environment may halt movement prematurely and deal damage.",
+    "body": "Forcibly move a creature X spaces, ignoring Difficult Terrain. Other creatures or the environment may halt movement prematurely and deal damage.",
+    "relatedIds": [
+      "difficult-terrain",
+      "prone"
+    ]
+  },
+  {
+    "id": "line",
+    "category": "keyword",
+    "title": "Line X",
+    "aliases": [],
+    "tags": [
+      "keyword",
+      "area",
+      "spellcasting"
+    ],
+    "summary": "A straight line extending up to X spaces in one direction.",
+    "tooltipBody": "A straight line extending up to X spaces in one direction.",
+    "body": "A straight line extending up to X spaces in one direction.",
+    "relatedIds": [
+      "cone",
+      "reach",
+      "range"
+    ]
+  },
+  {
+    "id": "cone",
+    "category": "keyword",
+    "title": "Cone X",
+    "aliases": [],
+    "tags": [
+      "keyword",
+      "area",
+      "spellcasting"
+    ],
+    "summary": "Starts at the character and extends X spaces outward, becoming up to X spaces wide at the farthest edge.",
+    "tooltipBody": "Starts at the character and extends X spaces outward, becoming up to X spaces wide at the farthest edge.",
+    "body": "Starts at the character and extends X spaces outward, becoming up to X spaces wide at the farthest edge.",
+    "relatedIds": [
+      "line",
+      "reach",
+      "range"
+    ]
+  },
+  {
+    "id": "cantrip",
+    "category": "keyword",
+    "title": "Cantrip",
+    "aliases": [
+      "cantrips"
+    ],
+    "tags": [
+      "keyword",
+      "spellcasting",
+      "mana"
+    ],
+    "summary": "A basic spell. Costs 0 mana to cast; power increases as you level up.",
+    "tooltipBody": "A basic spell. Costs 0 mana to cast, and their power increases as you level up.",
+    "body": "A basic spell. Costs 0 mana to cast, and their power increases as you level up.",
+    "relatedIds": [
+      "mana",
+      "cast-spell"
+    ]
+  },
+  {
+    "id": "mana",
+    "category": "keyword",
+    "title": "Mana",
+    "aliases": [],
+    "tags": [
+      "keyword",
+      "spellcasting",
+      "resource"
+    ],
+    "summary": "Used to fuel spellcasting.",
+    "tooltipBody": "Used to fuel spellcasting. See the Heroes book for more info on how classes gain mana.",
+    "body": "Used to fuel spellcasting. See the Heroes book for more info on how classes gain mana.",
+    "relatedIds": [
+      "cast-spell",
+      "cantrip",
+      "concentration"
+    ]
+  },
+  {
+    "id": "decrement",
+    "category": "keyword",
+    "title": "Decrement",
+    "aliases": [
+      "decrement die"
+    ],
+    "tags": [
+      "keyword",
+      "dice",
+      "mechanic"
+    ],
+    "summary": "Use a die one size smaller (d4 > d6 > d8 > d10 > d12 > d20).",
+    "tooltipBody": "Use a die one size smaller (d4 > d6 > d8 > d10 > d12 > d20).",
+    "body": "Decrement/Increment: Use a die one size smaller or larger (d4 > d6 > d8 > d10 > d12 > d20).",
+    "relatedIds": [
+      "increment"
+    ]
+  },
+  {
+    "id": "increment",
+    "category": "keyword",
+    "title": "Increment",
+    "aliases": [
+      "increment die"
+    ],
+    "tags": [
+      "keyword",
+      "dice",
+      "mechanic"
+    ],
+    "summary": "Use a die one size larger (d4 > d6 > d8 > d10 > d12 > d20).",
+    "tooltipBody": "Use a die one size larger (d4 > d6 > d8 > d10 > d12 > d20).",
+    "body": "Decrement/Increment: Use a die one size smaller or larger (d4 > d6 > d8 > d10 > d12 > d20).",
+    "relatedIds": [
+      "decrement"
+    ]
+  },
+  {
+    "id": "encounter",
+    "category": "keyword",
+    "title": "Encounter",
+    "aliases": [],
+    "tags": [
+      "keyword",
+      "combat",
+      "time"
+    ],
+    "summary": "An encounter begins when Initiative is rolled and ends when hostilities do.",
+    "tooltipBody": "An encounter begins when Initiative is rolled and ends when hostilities do.",
+    "body": "An encounter begins when Initiative is rolled and ends when hostilities do.",
+    "relatedIds": [
+      "round",
+      "turn"
+    ]
+  },
+  {
+    "id": "round",
+    "category": "keyword",
+    "title": "Round",
+    "aliases": [],
+    "tags": [
+      "keyword",
+      "combat",
+      "time"
+    ],
+    "summary": "The time in combat when each Hero and enemy has a chance to act.",
+    "tooltipBody": "The time in combat when each Hero and enemy has a chance to act.",
+    "body": "The time in combat when each Hero and enemy has a chance to act.",
+    "relatedIds": [
+      "turn",
+      "encounter"
+    ]
+  },
+  {
+    "id": "turn",
+    "category": "keyword",
+    "title": "Turn",
+    "aliases": [],
+    "tags": [
+      "keyword",
+      "combat",
+      "time"
+    ],
+    "summary": "The primary time allotted for an individual hero or monster group to act.",
+    "tooltipBody": "The primary time allotted for an individual hero or monster group to act.",
+    "body": "The primary time allotted for an individual hero or monster group to act.",
+    "relatedIds": [
+      "round",
+      "encounter"
+    ]
+  },
+  {
+    "id": "free",
+    "category": "keyword",
+    "title": "Free",
+    "aliases": [
+      "free action"
+    ],
+    "tags": [
+      "keyword",
+      "action",
+      "mechanic"
+    ],
+    "summary": "Does not cost an action or any other resource unless otherwise stated.",
+    "tooltipBody": "Does not cost an action or any other resource (e.g., mana) unless otherwise stated.",
+    "body": "Does not cost an action or any other resource (e.g., mana) unless otherwise stated.",
+    "relatedIds": [
+      "attack",
+      "move",
+      "cast-spell"
+    ]
+  },
+  {
+    "id": "rush-attacks",
+    "category": "keyword",
+    "title": "Rushed Attacks",
+    "aliases": [
+      "rushed attack",
+      "rushing attacks"
+    ],
+    "tags": [
+      "keyword",
+      "combat",
+      "attack"
+    ],
+    "summary": "Attacking more than once on a turn imposes cumulative disadvantage for each additional attack.",
+    "tooltipBody": "Attacking more than once on a turn imposes a cumulative disadvantage penalty (e.g., attacking with a short sword for the third time on a turn, you would roll 3d6 and take the lowest result).",
+    "body": "Attacking more than once on a turn imposes a cumulative disadvantage penalty (e.g., attacking with a short sword for the third time on a turn, you would roll 3d6 and take the lowest result).",
+    "relatedIds": [
+      "attack",
+      "disadvantage"
+    ]
+  },
+  {
+    "id": "climbing",
+    "category": "keyword",
+    "title": "Climbing",
+    "aliases": [
+      "climb speed"
+    ],
+    "tags": [
+      "keyword",
+      "movement",
+      "exploration"
+    ],
+    "summary": "A creature with a climbing speed can move across vertical surfaces as flat ground.",
+    "tooltipBody": "A creature with a climbing speed can move across vertical surfaces as flat ground.",
+    "body": "A creature with a climbing speed can move across vertical surfaces as flat ground.",
+    "relatedIds": [
+      "move",
+      "difficult-terrain"
+    ]
+  },
+  {
+    "id": "falling",
+    "category": "keyword",
+    "title": "Falling",
+    "aliases": [],
+    "tags": [
+      "keyword",
+      "damage",
+      "exploration"
+    ],
+    "summary": "Suffer 1d6 damage per 10 ft. fallen.",
+    "tooltipBody": "Suffer 1d6 damage per 10 ft. fallen.",
+    "body": "Suffer 1d6 damage per 10 ft. fallen.",
+    "relatedIds": [
+      "prone",
+      "knockback"
+    ]
+  },
+  {
+    "id": "distracted",
+    "category": "keyword",
+    "title": "Distracted",
+    "aliases": [],
+    "tags": [
+      "keyword",
+      "combat",
+      "mechanic"
+    ],
+    "summary": "A target is distracted if adjacent to or Taunted by an ally, or if it cannot see you.",
+    "tooltipBody": "A target is distracted if it is adjacent to or Taunted by an ally, or if it cannot see you.",
+    "body": "A target is distracted if it is adjacent to or Taunted by an ally, or if it cannot see you.",
+    "relatedIds": [
+      "taunted",
+      "advantage"
+    ]
+  },
+  {
+    "id": "smoldering",
+    "category": "keyword",
+    "title": "Smoldering",
+    "aliases": [
+      "smolder",
+      "on fire",
+      "burning"
+    ],
+    "tags": [
+      "keyword",
+      "minor-status",
+      "fire"
+    ],
+    "summary": "A minor fire status with no effect on its own; some spells deal bonus damage to Smoldering targets.",
+    "tooltipBody": "Smoldering is a minor status. It does nothing on its own, but fire spells like Ignite deal bonus damage to Smoldering targets. Ends when combat does.",
+    "body": "Smoldering is a minor status condition inflicted by some fire spells and abilities. By itself, Smoldering has no mechanical effect. However, certain Tier 1+ fire spells (such as Ignite) deal significantly increased damage to Smoldering targets, ending the condition on hit. All minor statuses \u2014 Smoldering, Charged, Distracted, etc. \u2014 end automatically when combat ends.",
+    "relatedIds": [
+      "charged",
+      "distracted"
+    ]
+  },
+  {
+    "id": "strength",
+    "category": "keyword",
+    "title": "Strength (STR)",
+    "aliases": [
+      "STR",
+      "str stat"
+    ],
+    "tags": [
+      "keyword",
+      "stat",
+      "mechanic"
+    ],
+    "summary": "The STR stat. Affects weapon damage, HP recovery, Concentration, saves, carrying, Grappling, and Might.",
+    "tooltipBody": "The STR stat. Affects STR weapon damage, resistance to Wounds, HP recovery, Concentration saves, STR saves, carrying capacity, Grappling, and the Might skill.",
+    "body": "The STR stat. Affects STR weapon damage, resistance to Wounds, HP recovery (roll + STR when spending Hit Dice), Concentration saves (DC 10 STR save when crit), STR saves, carrying capacity, Grappling checks, and the Might skill.",
+    "relatedIds": [
+      "might",
+      "grapple",
+      "concentration",
+      "hit-dice"
+    ]
+  },
+  {
+    "id": "dexterity",
+    "category": "keyword",
+    "title": "Dexterity (DEX)",
+    "aliases": [
+      "DEX",
+      "dex stat"
+    ],
+    "tags": [
+      "keyword",
+      "stat",
+      "mechanic"
+    ],
+    "summary": "The DEX stat. Affects weapon damage, Initiative, saves, Grappling, armor, and Stealth/Finesse skills.",
+    "tooltipBody": "The DEX stat. Affects DEX weapon damage, Initiative, DEX saves, Grappling checks, armor contribution, and the Stealth and Finesse skills.",
+    "body": "The DEX stat. Affects DEX weapon damage, Initiative rolls (1d20 + DEX), DEX saves, Grappling checks, armor contribution (unarmored: Armor equals DEX), and the Stealth and Finesse skills.",
+    "relatedIds": [
+      "stealth",
+      "finesse",
+      "initiative",
+      "armor"
+    ]
+  },
+  {
+    "id": "intelligence",
+    "category": "keyword",
+    "title": "Intelligence (INT)",
+    "aliases": [
+      "INT",
+      "int stat"
+    ],
+    "tags": [
+      "keyword",
+      "stat",
+      "mechanic"
+    ],
+    "summary": "The INT stat. Affects languages, spellcasting, wands/scrolls, saves, and Arcana/Examination/Lore skills.",
+    "tooltipBody": "The INT stat. Affects languages known, spellcasting, use of wands and scrolls, INT saves, and the Arcana, Examination, and Lore skills.",
+    "body": "The INT stat. Affects languages known, spellcasting, use of wands and scrolls, INT saves, and the Arcana, Examination, and Lore skills.",
+    "relatedIds": [
+      "arcana",
+      "examination",
+      "lore",
+      "wand",
+      "spell-scroll"
+    ]
+  },
+  {
+    "id": "will",
+    "category": "keyword",
+    "title": "Will (WIL)",
+    "aliases": [
+      "WIL",
+      "wil stat",
+      "willpower"
+    ],
+    "tags": [
+      "keyword",
+      "stat",
+      "mechanic"
+    ],
+    "summary": "The WIL stat. Affects spellcasting, WIL saves, and Insight/Influence/Naturecraft/Perception skills.",
+    "tooltipBody": "The WIL stat. Affects spellcasting, WIL saves, and the Insight, Influence, Naturecraft, and Perception skills.",
+    "body": "The WIL stat. Affects spellcasting, WIL saves, and the Insight, Influence, Naturecraft, and Perception skills.",
+    "relatedIds": [
+      "insight",
+      "influence",
+      "naturecraft",
+      "perception"
+    ]
+  },
+  {
+    "id": "arcana",
+    "category": "keyword",
+    "title": "Arcana",
+    "aliases": [],
+    "tags": [
+      "keyword",
+      "skill",
+      "intelligence"
+    ],
+    "summary": "(INT) Identify magical effects, decipher arcane symbols, discern magical item properties. Covers Aberrations, Elementals, Oozes.",
+    "tooltipBody": "(INT) Skill: Identify magical effects, decipher arcane symbols, discern magical item properties. Monster knowledge: Aberrations, Elementals, Oozes.",
+    "body": "(INT) Skill: Identify magical effects, decipher arcane symbols, discern magical item properties. Covers Aberrations, Elementals, and Oozes when recalling creature knowledge.",
+    "relatedIds": [
+      "intelligence",
+      "wand",
+      "spell-scroll"
+    ]
+  },
+  {
+    "id": "examination",
+    "category": "keyword",
+    "title": "Examination",
+    "aliases": [],
+    "tags": [
+      "keyword",
+      "skill",
+      "intelligence"
+    ],
+    "summary": "(INT) Diagnose injuries, uncover clues, analyze traps and mechanical devices. Covers Constructs.",
+    "tooltipBody": "(INT) Skill: Diagnose injuries, uncover clues, analyze traps and mechanical devices. Monster knowledge: Constructs.",
+    "body": "(INT) Skill: Diagnose injuries, uncover clues, analyze traps and mechanical devices. Covers Constructs when recalling creature knowledge.",
+    "relatedIds": [
+      "intelligence"
+    ]
+  },
+  {
+    "id": "finesse",
+    "category": "keyword",
+    "title": "Finesse",
+    "aliases": [],
+    "tags": [
+      "keyword",
+      "skill",
+      "dexterity"
+    ],
+    "summary": "(DEX) Lock-picking, trap disarming, vehicle piloting, tinkering, sleight of hand.",
+    "tooltipBody": "(DEX) Skill: Lock-picking, trap disarming, vehicle piloting, tinkering, and sleight of hand.",
+    "body": "(DEX) Skill: Lock-picking, trap disarming, vehicle piloting, tinkering, and sleight of hand.",
+    "relatedIds": [
+      "dexterity",
+      "stealth"
+    ]
+  },
+  {
+    "id": "influence",
+    "category": "keyword",
+    "title": "Influence",
+    "aliases": [],
+    "tags": [
+      "keyword",
+      "skill",
+      "will"
+    ],
+    "summary": "(WIL) Persuade, deceive, negotiate, perform, build trust.",
+    "tooltipBody": "(WIL) Skill: Persuade, deceive, negotiate, perform, and build trust.",
+    "body": "(WIL) Skill: Persuade, deceive, negotiate, perform, and build trust with others.",
+    "relatedIds": [
+      "will",
+      "insight"
+    ]
+  },
+  {
+    "id": "insight",
+    "category": "keyword",
+    "title": "Insight",
+    "aliases": [],
+    "tags": [
+      "keyword",
+      "skill",
+      "will"
+    ],
+    "summary": "(WIL) Sense motives, detect lies, read emotions. Can retroactively justify preparations.",
+    "tooltipBody": "(WIL) Skill: Sense motives, detect lies, read emotions. Can retroactively justify preparations.",
+    "body": "(WIL) Skill: Sense motives, detect lies, read emotions. Can retroactively justify preparations made before a social encounter.",
+    "relatedIds": [
+      "will",
+      "influence"
+    ]
+  },
+  {
+    "id": "might",
+    "category": "keyword",
+    "title": "Might",
+    "aliases": [],
+    "tags": [
+      "keyword",
+      "skill",
+      "strength"
+    ],
+    "summary": "(STR) Lift heavy objects, break obstacles, climb, swim, jump.",
+    "tooltipBody": "(STR) Skill: Lift heavy objects, break through obstacles, climb, swim, and jump.",
+    "body": "(STR) Skill: Lift heavy objects, break through obstacles, climb, swim, and jump.",
+    "relatedIds": [
+      "strength"
+    ]
+  },
+  {
+    "id": "lore",
+    "category": "keyword",
+    "title": "Lore",
+    "aliases": [],
+    "tags": [
+      "keyword",
+      "skill",
+      "intelligence"
+    ],
+    "summary": "(INT) Recall historical events, cultural practices. Covers Celestials, Dragons, Fey, Fiends, Giants, Humanoids, Undead.",
+    "tooltipBody": "(INT) Skill: Recall historical events and cultural practices. Monster knowledge: Celestials, Dragons, Fey, Fiends, Giants, Humanoids, Undead.",
+    "body": "(INT) Skill: Recall historical events and cultural practices. Covers Celestials, Dragons, Fey, Fiends, Giants, Humanoids, and Undead when recalling creature knowledge.",
+    "relatedIds": [
+      "intelligence"
+    ]
+  },
+  {
+    "id": "naturecraft",
+    "category": "keyword",
+    "title": "Naturecraft",
+    "aliases": [],
+    "tags": [
+      "keyword",
+      "skill",
+      "will"
+    ],
+    "summary": "(WIL) Wilderness survival, tracking, animal handling. Covers Beasts, Monstrosities, Plants.",
+    "tooltipBody": "(WIL) Skill: Wilderness survival, tracking, and animal handling. Monster knowledge: Beasts, Monstrosities, Plants.",
+    "body": "(WIL) Skill: Wilderness survival, tracking, and animal handling. Covers Beasts, Monstrosities, and Plants when recalling creature knowledge.",
+    "relatedIds": [
+      "will",
+      "perception"
+    ]
+  },
+  {
+    "id": "perception",
+    "category": "keyword",
+    "title": "Perception",
+    "aliases": [],
+    "tags": [
+      "keyword",
+      "skill",
+      "will"
+    ],
+    "summary": "(WIL) Notice details, spot hidden objects, sense ambushes.",
+    "tooltipBody": "(WIL) Skill: Notice details, spot hidden objects, and sense ambushes.",
+    "body": "(WIL) Skill: Notice details, spot hidden objects, and sense ambushes.",
+    "relatedIds": [
+      "will",
+      "stealth"
+    ]
+  },
+  {
+    "id": "stealth",
+    "category": "keyword",
+    "title": "Stealth",
+    "aliases": [],
+    "tags": [
+      "keyword",
+      "skill",
+      "dexterity"
+    ],
+    "summary": "(DEX) Hide, move quietly, evade detection.",
+    "tooltipBody": "(DEX) Skill: Hide, move quietly, and evade detection. To hide in combat: use an action, DC 15 Stealth (auto-succeed with full cover).",
+    "body": "(DEX) Skill: Hide, move quietly, and evade detection. To hide in combat: spend an action and make a DC 15 Stealth check. You automatically succeed if you have full cover.",
+    "relatedIds": [
+      "dexterity",
+      "cover",
+      "perception",
+      "finesse"
+    ]
+  },
+  {
+    "id": "hit-dice",
+    "category": "keyword",
+    "title": "Hit Dice",
+    "aliases": [
+      "HD",
+      "hit die"
+    ],
+    "tags": [
+      "keyword",
+      "mechanic",
+      "recovery"
+    ],
+    "summary": "Represent your ability to recuperate. Spend during a Field Rest to regain HP (roll + STR). Max equals your level.",
+    "tooltipBody": "Hit Dice represent your ability to quickly recuperate. Spend them during a Field Rest to regain HP (roll + STR modifier). Your maximum number of Hit Dice equals your level.",
+    "body": "Hit Dice represent your ability to quickly recuperate. Spend them during a Field Rest to regain HP (roll the die + STR modifier). Your maximum number of Hit Dice equals your level. Expended Hit Dice are recovered on a Safe Rest.",
+    "relatedIds": [
+      "field-rest",
+      "safe-rest",
+      "strength"
+    ]
+  },
+  {
+    "id": "field-rest",
+    "category": "keyword",
+    "title": "Field Rest",
+    "aliases": [
+      "short rest",
+      "catch your breath"
+    ],
+    "tags": [
+      "keyword",
+      "mechanic",
+      "recovery"
+    ],
+    "summary": "Takes 10+ minutes. Catch Breath: expend Hit Dice (roll + STR) to regain HP. Make Camp: 8+ hours for max HD + STR.",
+    "tooltipBody": "Takes at least 10 minutes. Catch Breath: expend Hit Dice one at a time (roll + STR) to regain HP. Make Camp: 8+ hours of sleep; take maximum HD value + STR instead.",
+    "body": "A Field Rest takes at least 10 minutes. Catch Breath: expend Hit Dice one at a time (roll + STR modifier) to regain HP. Make Camp: 8 or more hours of sleep; take the maximum value of your Hit Die + STR modifier instead of rolling.",
+    "relatedIds": [
+      "hit-dice",
+      "safe-rest",
+      "strength"
+    ]
+  },
+  {
+    "id": "safe-rest",
+    "category": "keyword",
+    "title": "Safe Rest",
+    "aliases": [
+      "long rest",
+      "full rest"
+    ],
+    "tags": [
+      "keyword",
+      "mechanic",
+      "recovery"
+    ],
+    "summary": "Requires a safe location. Recovers all HP, Hit Dice, mana, class resources, and heals 1 Wound.",
+    "tooltipBody": "Requires a safe location (inn, secret oasis, etc.). Recovers all HP, all Hit Dice, all mana and class resources, and heals 1 Wound.",
+    "body": "A Safe Rest requires a safe location (inn, hideout, etc.). It recovers all HP, all Hit Dice, all mana and class resources, and heals 1 Wound.",
+    "relatedIds": [
+      "field-rest",
+      "hit-dice",
+      "wound"
+    ]
+  },
+  {
+    "id": "armor",
+    "category": "keyword",
+    "title": "Armor",
+    "aliases": [],
+    "tags": [
+      "keyword",
+      "defense",
+      "combat"
+    ],
+    "summary": "Your ability to dodge or block damage. Unarmored: Armor equals DEX. Used by the Defend reaction.",
+    "tooltipBody": "Armor represents your ability to dodge or block damage when using the Defend reaction. Unarmored: Armor equals DEX. Cloth/Leather adds DEX. Plate/Mail has fixed or capped values.",
+    "body": "Armor represents your ability to dodge or block damage when using the Defend reaction. Unarmored: Armor equals DEX. Cloth/Leather armor adds DEX. Plate/Mail has fixed or capped values. Monster armor (Medium/Heavy) reduces damage differently.",
+    "relatedIds": [
+      "defend",
+      "dexterity",
+      "vulnerable"
+    ]
+  },
+  {
+    "id": "vicious",
+    "category": "keyword",
+    "title": "Vicious",
+    "aliases": [],
+    "tags": [
+      "keyword",
+      "weapon",
+      "combat"
+    ],
+    "summary": "Weapon property: Roll 1 additional die whenever you roll crit damage.",
+    "tooltipBody": "Weapon property: Roll 1 additional die whenever you roll crit damage. Only the Primary Die determines whether an attack is a crit.",
+    "body": "Weapon property: Roll 1 additional die whenever you roll crit damage. Only the Primary Die is used to determine whether an attack is a critical hit.",
+    "relatedIds": [
+      "attack"
+    ]
+  },
+  {
+    "id": "light",
+    "category": "keyword",
+    "title": "Light",
+    "aliases": [
+      "light weapon"
+    ],
+    "tags": [
+      "keyword",
+      "weapon",
+      "combat"
+    ],
+    "summary": "Weapon property: Can be dual-wielded with another Light weapon.",
+    "tooltipBody": "Weapon property: Can be dual-wielded with another Light weapon.",
+    "body": "Weapon property: Can be dual-wielded alongside another Light weapon.",
+    "relatedIds": [
+      "dual-wielding"
+    ]
+  },
+  {
+    "id": "thrown",
+    "category": "keyword",
+    "title": "Thrown",
+    "aliases": [],
+    "tags": [
+      "keyword",
+      "weapon",
+      "combat",
+      "ranged"
+    ],
+    "summary": "Weapon property: Treat as if it had Range. Once thrown, you no longer have it.",
+    "tooltipBody": "Weapon property: Treat a melee weapon as if it had Range. Once thrown, you no longer have it.",
+    "body": "Weapon property: Treat the melee weapon as if it had Range. Once thrown, you no longer have it and must retrieve it or find another.",
+    "relatedIds": [
+      "range",
+      "attack"
+    ]
+  },
+  {
+    "id": "2-handed",
+    "category": "keyword",
+    "title": "2-Handed",
+    "aliases": [
+      "two-handed",
+      "two handed"
+    ],
+    "tags": [
+      "keyword",
+      "weapon",
+      "combat"
+    ],
+    "summary": "Weapon property: Must be wielded in 2 hands to attack. Some can be held in 1 hand with sufficient STR.",
+    "tooltipBody": "Weapon property: Must be wielded in 2 hands to attack. Some 2-handed weapons can be held in 1 hand with sufficient STR.",
+    "body": "Weapon property: Must be wielded in 2 hands to attack. Some 2-handed weapons can be held in 1 hand with sufficient STR, though you still need 2 hands to swing them.",
+    "relatedIds": [
+      "strength",
+      "attack"
+    ]
+  },
+  {
+    "id": "dual-wielding",
+    "category": "keyword",
+    "title": "Dual-Wielding",
+    "aliases": [
+      "dual wield",
+      "two weapon fighting"
+    ],
+    "tags": [
+      "keyword",
+      "weapon",
+      "combat"
+    ],
+    "summary": "Wield 2 Light weapons simultaneously. Gain advantage on an attack with those weapons 1/round.",
+    "tooltipBody": "You can wield 2 Light weapons simultaneously. Gain advantage on an attack with those weapons, once per round.",
+    "body": "You can wield 2 Light weapons simultaneously. Gain advantage on one attack made with those weapons once per round.",
+    "relatedIds": [
+      "light",
+      "attack"
+    ]
+  },
+  {
+    "id": "spell-scroll",
+    "category": "keyword",
+    "title": "Spell Scroll",
+    "aliases": [
+      "scroll"
+    ],
+    "tags": [
+      "keyword",
+      "item",
+      "spellcasting"
+    ],
+    "summary": "Single-use inscribed spell. No mana cost. Anyone who reads the language can use it. DC 10 Arcana if unknown school.",
+    "tooltipBody": "Single-use inscribed spell. No mana cost. Anyone who can read the language can use it. Takes the same actions as the normal spell. DC 10 Arcana check if you do not know a spell from that school.",
+    "body": "A single-use item inscribed with a spell. Using it costs no mana and takes the same actions as casting the spell normally. Anyone who can read the language can use it. If you do not know any spells from that spell school, make a DC 10 Arcana check or the scroll is wasted.",
+    "relatedIds": [
+      "arcana",
+      "intelligence",
+      "wand",
+      "cast-spell"
+    ]
+  },
+  {
+    "id": "wand",
+    "category": "keyword",
+    "title": "Wand",
+    "aliases": [
+      "wands"
+    ],
+    "tags": [
+      "keyword",
+      "item",
+      "spellcasting"
+    ],
+    "summary": "Reusable magical item that casts spells without mana. Proficient: normal actions. Non-proficient: DC 10+tier Arcana check.",
+    "tooltipBody": "Reusable magical item that casts spells without spending mana. Proficient users spend normal actions. Non-proficient users must make a DC 10+tier Arcana check.",
+    "body": "A reusable magical item that casts specific spells without spending mana. Proficient spellcasters spend the normal number of actions. Non-proficient users must make a DC 10 + spell tier Arcana check or the use is wasted.",
+    "relatedIds": [
+      "arcana",
+      "intelligence",
+      "spell-scroll",
+      "cast-spell"
+    ]
+  },
+  {
+    "id": "initiative",
+    "category": "keyword",
+    "title": "Initiative",
+    "aliases": [],
+    "tags": [
+      "keyword",
+      "combat",
+      "mechanic"
+    ],
+    "summary": "Rolled at combat start (1d20 + DEX). Single digit = 1 action; double digit = 2; 20+ = 3 to start.",
+    "tooltipBody": "Rolled at the start of combat (1d20 + DEX). Single digit = 1 action to start; double digit = 2 actions; 20+ = 3 actions. Everyone regains all actions at the end of their turn.",
+    "body": "Rolled at the start of combat (1d20 + DEX). Single digit result (1\u20139) = 1 action to start; double digit (10\u201319) = 2 actions; 20+ = 3 actions. Everyone regains all their actions at the end of their turn.",
+    "relatedIds": [
+      "dexterity",
+      "encounter",
+      "round",
+      "turn"
+    ]
+  }
+]

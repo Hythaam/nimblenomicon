@@ -1,0 +1,99 @@
+---
+title: Goblins
+sidebar_label: Goblins
+---
+
+# Goblins
+
+Goblins are small, chaotic creatures that rely on numbers and irritating abilities. All goblins share the trait **Haha, Missed Me!** — a retaliatory poke whenever an attack misses them.
+
+---
+
+## Goblin Minion
+
+**Level:** 1/4 | **Size:** Small | **Group:** Goblins
+
+<StatBlock
+  name="Goblin Minion"
+  stats={[
+    { label: "HP", value: "Minion" },
+    { label: "Armor", value: "None" },
+    { label: "Speed", value: "6" },
+    { label: "Level", value: "¼" },
+  ]}
+  description="Haha, Missed Me! — Whenever an attack misses you, deal 1 psychic damage in return."
+/>
+
+**Actions**
+- **Stab.** 1d6 (follows minion rules).
+
+---
+
+## Goblin
+
+**Level:** 1/3 | **Size:** Small | **Group:** Goblins
+
+<StatBlock
+  name="Goblin"
+  stats={[
+    { label: "HP", value: "15" },
+    { label: "Armor", value: "None" },
+    { label: "Speed", value: "6" },
+    { label: "Level", value: "⅓" },
+  ]}
+  description="Haha, Missed Me! — Whenever an attack misses you, deal 1 psychic damage in return."
+/>
+
+**Actions**
+- **Stab.** 1d6+2 (or Shoot, Range 8).
+
+---
+
+## Goblin Taskmaster
+
+**Level:** 2 | **Size:** Small | **Group:** Goblins
+
+<StatBlock
+  name="Goblin Taskmaster"
+  stats={[
+    { label: "HP", value: "30" },
+    { label: "Armor", value: "Medium" },
+    { label: "Speed", value: "6" },
+    { label: "Level", value: "2" },
+  ]}
+/>
+
+**Traits**
+- **Haha, Missed Me!** Whenever an attack misses you, deal 1 psychic damage in return.
+- **Meat Shield.** Can force other goblins to Interpose for him.
+
+**Actions**
+- **Stab.** 1d6+2 (or Shoot, Range 8). Then:
+- **Get in here!** Call a goblin minion to the fight.
+
+---
+
+## Bugbear
+
+**Level:** 2 | **Size:** Medium | **Group:** Goblins
+
+<StatBlock
+  name="Bugbear"
+  stats={[
+    { label: "HP", value: "30" },
+    { label: "Armor", value: "Medium" },
+    { label: "Speed", value: "6" },
+    { label: "Level", value: "2" },
+  ]}
+/>
+
+**Traits**
+- **Haha, Missed Me!** Whenever an attack misses you, deal 1 psychic damage in return.
+
+**Actions**
+- **Cleave.** 2d6+4. OR:
+- **Javelin.** 1d6+2 (Range 8).
+
+<Callout type="note" title="Goblin Tactics">
+  Goblin Minions are expendable. The Taskmaster hides behind them. Focus the Taskmaster first to stop reinforcements.
+</Callout>

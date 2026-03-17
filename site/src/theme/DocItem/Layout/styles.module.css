@@ -1,0 +1,37 @@
+/* DocItem layout customization — density and typography tuning */
+
+.docWrapper :global(.theme-doc-markdown) {
+  /* Tighter line-height and optimized reading width */
+  line-height: 1.75;
+  max-width: 72ch;
+}
+
+.docWrapper :global(.theme-doc-markdown h1) {
+  font-size: 1.9rem;
+  margin-bottom: 0.4rem;
+  border-bottom: 2px solid var(--ifm-color-emphasis-200);
+  padding-bottom: 0.4rem;
+}
+
+.docWrapper :global(.theme-doc-markdown h2) {
+  font-size: 1.4rem;
+  margin-top: 2rem;
+  margin-bottom: 0.4rem;
+  border-bottom: 1px solid var(--ifm-color-emphasis-200);
+  padding-bottom: 0.25rem;
+}
+
+.docWrapper :global(.theme-doc-markdown h3) {
+  font-size: 1.15rem;
+  margin-top: 1.5rem;
+}
+
+.docWrapper :global(.theme-doc-markdown p) {
+  margin-bottom: 0.85rem;
+}
+
+/* Tighten table padding */
+.docWrapper :global(.theme-doc-markdown table td),
+.docWrapper :global(.theme-doc-markdown table th) {
+  padding: 0.45rem 0.75rem;
+}

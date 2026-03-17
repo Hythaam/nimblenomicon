@@ -1,0 +1,15 @@
+.badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  background: var(--badge-bg, #666);
+  color: var(--badge-color, #fff);
+}
+.condition { --badge-bg: #9b2226; }
+.action    { --badge-bg: #1b4332; }
+.keyword   { --badge-bg: #1e3a5f; }
+.trait     { --badge-bg: #6d3a9c; }

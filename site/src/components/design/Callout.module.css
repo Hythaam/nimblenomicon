@@ -1,0 +1,17 @@
+.callout {
+  border-left: 4px solid var(--callout-color, #888);
+  background: var(--callout-bg, rgba(0,0,0,0.04));
+  padding: 0.75rem 1rem;
+  border-radius: 0 6px 6px 0;
+  margin: 1rem 0;
+}
+.title {
+  font-weight: 700;
+  margin-bottom: 0.4rem;
+  color: var(--callout-color, #555);
+}
+.note    { --callout-color: #2563eb; --callout-bg: rgba(37,99,235,0.06); }
+.tip     { --callout-color: #16a34a; --callout-bg: rgba(22,163,74,0.06); }
+.warning { --callout-color: #d97706; --callout-bg: rgba(217,119,6,0.06); }
+.danger  { --callout-color: #dc2626; --callout-bg: rgba(220,38,38,0.06); }
+.info    { --callout-color: #0891b2; --callout-bg: rgba(8,145,178,0.06); }

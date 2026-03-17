@@ -1,0 +1,19 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  border: 2px solid var(--ifm-color-emphasis-300);
+  border-radius: 8px;
+  padding: 0.5rem 0.75rem;
+  background: var(--ifm-background-surface-color);
+}
+.wrapper:focus-within { border-color: var(--ifm-color-primary); }
+.icon { font-size: 1rem; }
+.input {
+  flex: 1;
+  border: none;
+  background: transparent;
+  font-size: 1rem;
+  outline: none;
+  color: var(--ifm-font-color-base);
+}

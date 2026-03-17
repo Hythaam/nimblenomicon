@@ -1,0 +1,481 @@
+[
+  {
+    "id": "conditions",
+    "category": "condition",
+    "title": "Conditions",
+    "aliases": [
+      "status effects",
+      "status conditions"
+    ],
+    "tags": [
+      "condition",
+      "rules",
+      "overview"
+    ],
+    "summary": "Conditions are temporary negative (or situational) effects applied by attacks, spells, and abilities.",
+    "tooltipBody": "Conditions are negative effects applied by attacks, traps, spells, or abilities. They range from Blinded and Frightened to Prone and Grappled, each with specific mechanical effects.",
+    "body": "Some attacks, traps, spells, or other effects can also inflict conditions \u2014 usually negative effects other than damage. Some conditions are temporary, lasting as little as a single round; others may last until cured in some way, and some can be ended by using an action to make an appropriate save. See the individual condition entries for full details.",
+    "relatedIds": [
+      "blinded",
+      "frightened",
+      "grappled",
+      "prone",
+      "poisoned",
+      "incapacitated"
+    ]
+  },
+  {
+    "id": "blinded",
+    "category": "condition",
+    "title": "Blinded",
+    "aliases": [
+      "blind"
+    ],
+    "tags": [
+      "condition",
+      "debuff",
+      "combat"
+    ],
+    "summary": "Can't see. Attacks against you have advantage; your attacks have disadvantage.",
+    "tooltipBody": "Can't see. Attacks against you have advantage, and your attacks have disadvantage.",
+    "body": "Can't see. Attacks against you have advantage, and your attacks have disadvantage.",
+    "relatedIds": [
+      "invisible",
+      "darkvision",
+      "blindsight"
+    ]
+  },
+  {
+    "id": "bloodied",
+    "category": "condition",
+    "title": "Bloodied",
+    "aliases": [],
+    "tags": [
+      "condition",
+      "combat",
+      "hp"
+    ],
+    "summary": "At half HP or less.",
+    "tooltipBody": "At half HP or less.",
+    "body": "At half HP or less.",
+    "relatedIds": [
+      "wounded",
+      "dying"
+    ]
+  },
+  {
+    "id": "charmed",
+    "category": "condition",
+    "title": "Charmed",
+    "aliases": [
+      "charm"
+    ],
+    "tags": [
+      "condition",
+      "debuff",
+      "social"
+    ],
+    "summary": "Sees the charmer as an ally. Charmer has advantage on social interactions with you.",
+    "tooltipBody": "Sees the charmer as an ally. Charmer has advantage on social interactions with you.",
+    "body": "Sees the charmer as an ally. Charmer has advantage on social interactions with you.",
+    "relatedIds": [
+      "frightened",
+      "taunted"
+    ]
+  },
+  {
+    "id": "dazed",
+    "category": "condition",
+    "title": "Dazed",
+    "aliases": [],
+    "tags": [
+      "condition",
+      "debuff",
+      "combat"
+    ],
+    "summary": "Heroes: lose 1 action; monsters: can perform one less action on their next turn.",
+    "tooltipBody": "Heroes: lose 1 action; monsters: can perform one less action on their next turn.",
+    "body": "Heroes: lose 1 action; monsters: can perform one less action on their next turn.",
+    "relatedIds": [
+      "hampered",
+      "incapacitated"
+    ]
+  },
+  {
+    "id": "dying",
+    "category": "condition",
+    "title": "Dying",
+    "aliases": [],
+    "tags": [
+      "condition",
+      "combat",
+      "hp"
+    ],
+    "summary": "At 0 HP. Taking damage while dying causes 2 Wounds; a crit causes 3 instead.",
+    "tooltipBody": "At 0 HP. Taking damage while dying causes 2 Wounds, a crit causes 3 instead.",
+    "body": "At 0 HP. Taking damage while dying causes 2 Wounds, a crit causes 3 instead.",
+    "relatedIds": [
+      "wounded",
+      "bloodied"
+    ]
+  },
+  {
+    "id": "frightened",
+    "category": "condition",
+    "title": "Frightened",
+    "aliases": [
+      "fear",
+      "feared"
+    ],
+    "tags": [
+      "condition",
+      "debuff",
+      "combat"
+    ],
+    "summary": "Disadvantage on rolls when source of fear is nearby; speed halved when moving closer to it.",
+    "tooltipBody": "Disadvantage on rolls when source of fear is nearby; speed halved when moving closer to it.",
+    "body": "Disadvantage on rolls when source of fear is nearby; speed halved when moving closer to it.",
+    "relatedIds": [
+      "charmed",
+      "taunted"
+    ]
+  },
+  {
+    "id": "grappled",
+    "category": "condition",
+    "title": "Grappled",
+    "aliases": [
+      "grapple"
+    ],
+    "tags": [
+      "condition",
+      "debuff",
+      "combat",
+      "movement"
+    ],
+    "summary": "Cannot move. Attacks against you have advantage.",
+    "tooltipBody": "Cannot move. Attacks against you have advantage.",
+    "body": "Cannot move. Attacks against you have advantage.",
+    "relatedIds": [
+      "restrained",
+      "prone",
+      "hampered"
+    ]
+  },
+  {
+    "id": "hampered",
+    "category": "condition",
+    "title": "Hampered",
+    "aliases": [],
+    "tags": [
+      "condition",
+      "debuff",
+      "combat",
+      "movement"
+    ],
+    "summary": "Any creature with their actions or movement reduced (e.g., Dazed, Grappled, Prone, Difficult Terrain).",
+    "tooltipBody": "Any creature with their actions or movement reduced (e.g., Dazed, Grappled, Prone, Difficult Terrain).",
+    "body": "Any creature with their actions or movement reduced (e.g., Dazed, Grappled, Prone, Difficult Terrain).",
+    "relatedIds": [
+      "dazed",
+      "grappled",
+      "prone",
+      "difficult-terrain"
+    ]
+  },
+  {
+    "id": "incapacitated",
+    "category": "condition",
+    "title": "Incapacitated",
+    "aliases": [],
+    "tags": [
+      "condition",
+      "debuff",
+      "combat"
+    ],
+    "summary": "Can't do anything. Attacks against you have advantage; melee attacks that hit, crit.",
+    "tooltipBody": "Can't do anything. Attacks against you have advantage, and melee attacks that hit, crit.",
+    "body": "Can't do anything. Attacks against you have advantage, and melee attacks that hit, crit.",
+    "relatedIds": [
+      "paralyzed",
+      "stunned",
+      "unconscious",
+      "petrified"
+    ]
+  },
+  {
+    "id": "invisible",
+    "category": "condition",
+    "title": "Invisible",
+    "aliases": [
+      "invisibility"
+    ],
+    "tags": [
+      "condition",
+      "buff",
+      "combat"
+    ],
+    "summary": "Cannot be seen. Your attacks have advantage; attacks against you have disadvantage.",
+    "tooltipBody": "Cannot be seen. Your attacks have advantage, and attacks against you have disadvantage.",
+    "body": "Cannot be seen. Your attacks have advantage, and attacks against you have disadvantage.",
+    "relatedIds": [
+      "blinded",
+      "blindsight",
+      "darkvision"
+    ]
+  },
+  {
+    "id": "petrified",
+    "category": "condition",
+    "title": "Petrified",
+    "aliases": [],
+    "tags": [
+      "condition",
+      "debuff",
+      "combat"
+    ],
+    "summary": "Incapacitated. You are a rock \u2014 immune to most damage except from large explosions, picks, or similar.",
+    "tooltipBody": "Incapacitated. You have all the benefits and drawbacks of being a rock! Immune to most damage except from large explosions, picks, or similar tools.",
+    "body": "Incapacitated. You have all the benefits and drawbacks of being a rock! Immune to most damage except from large explosions, picks, or similar tools.",
+    "relatedIds": [
+      "incapacitated",
+      "paralyzed"
+    ]
+  },
+  {
+    "id": "poisoned",
+    "category": "condition",
+    "title": "Poisoned",
+    "aliases": [
+      "poison"
+    ],
+    "tags": [
+      "condition",
+      "debuff",
+      "combat"
+    ],
+    "summary": "Disadvantage on rolls.",
+    "tooltipBody": "Disadvantage on rolls.",
+    "body": "Disadvantage on rolls.",
+    "relatedIds": [
+      "disadvantage",
+      "frightened"
+    ]
+  },
+  {
+    "id": "prone",
+    "category": "condition",
+    "title": "Prone",
+    "aliases": [],
+    "tags": [
+      "condition",
+      "debuff",
+      "combat",
+      "movement"
+    ],
+    "summary": "Movement costs twice as much; disadvantage on attacks. Melee attacks against you have advantage; ranged have disadvantage.",
+    "tooltipBody": "Movement costs twice as much, and disadvantage on attacks. Melee attacks against you have advantage; Ranged have disadvantage. Spend 3 spaces of your Speed to stand up.",
+    "body": "Movement costs twice as much, and disadvantage on attacks. Melee attacks against you have advantage; Ranged have disadvantage. Spend 3 spaces of your Speed to stand up.",
+    "relatedIds": [
+      "grappled",
+      "hampered"
+    ]
+  },
+  {
+    "id": "riding",
+    "category": "condition",
+    "title": "Riding",
+    "aliases": [],
+    "tags": [
+      "condition",
+      "combat",
+      "movement"
+    ],
+    "summary": "You move with the creature you are riding. Any attacks that miss you, strike them.",
+    "tooltipBody": "You move with the creature you are riding. Any attacks that miss you, strike them.",
+    "body": "You move with the creature you are riding. Any attacks that miss you, strike them.",
+    "relatedIds": []
+  },
+  {
+    "id": "slowed",
+    "category": "condition",
+    "title": "Slowed",
+    "aliases": [
+      "slow"
+    ],
+    "tags": [
+      "condition",
+      "debuff",
+      "combat",
+      "movement"
+    ],
+    "summary": "Speed halved during your next turn.",
+    "tooltipBody": "Speed halved during your next turn.",
+    "body": "Speed halved during your next turn.",
+    "relatedIds": [
+      "hampered",
+      "frightened"
+    ]
+  },
+  {
+    "id": "taunted",
+    "category": "condition",
+    "title": "Taunted",
+    "aliases": [
+      "taunt"
+    ],
+    "tags": [
+      "condition",
+      "debuff",
+      "combat"
+    ],
+    "summary": "Disadvantage on attacks except against the most recent taunter.",
+    "tooltipBody": "Disadvantage on attacks except against the most recent taunter.",
+    "body": "Disadvantage on attacks except against the most recent taunter.",
+    "relatedIds": [
+      "charmed",
+      "frightened",
+      "distracted"
+    ]
+  },
+  {
+    "id": "wounded",
+    "category": "condition",
+    "title": "Wounded",
+    "aliases": [],
+    "tags": [
+      "condition",
+      "combat",
+      "hp"
+    ],
+    "summary": "Has any Wounds (typically 6 Wounds and a hero is dead).",
+    "tooltipBody": "Has any Wounds (typically 6 Wounds and a hero is dead).",
+    "body": "Has any Wounds (typically 6 Wounds and a hero is dead).",
+    "relatedIds": [
+      "dying",
+      "bloodied",
+      "wound"
+    ]
+  },
+  {
+    "id": "restrained",
+    "category": "condition",
+    "title": "Restrained",
+    "aliases": [
+      "restrain"
+    ],
+    "tags": [
+      "condition",
+      "debuff",
+      "combat",
+      "movement"
+    ],
+    "summary": "Cannot move. Attacks against you have advantage. Objects restrain; creatures grapple.",
+    "tooltipBody": "Cannot move. Attacks against you have advantage. Objects Restrain, creatures Grapple.",
+    "body": "Same effect as Grappled, but objects Restrain and creatures Grapple.",
+    "relatedIds": [
+      "grappled",
+      "hampered",
+      "prone"
+    ]
+  },
+  {
+    "id": "paralyzed",
+    "category": "condition",
+    "title": "Paralyzed",
+    "aliases": [
+      "paralysis"
+    ],
+    "tags": [
+      "condition",
+      "debuff",
+      "combat"
+    ],
+    "summary": "Incapacitated. Can't do anything. Attacks against you have advantage; melee attacks that hit, crit.",
+    "tooltipBody": "Incapacitated. Can't do anything. Attacks against you have advantage, and melee attacks that hit, crit.",
+    "body": "Incapacitated. Can't do anything. Attacks against you have advantage, and melee attacks that hit, crit.",
+    "relatedIds": [
+      "incapacitated",
+      "stunned",
+      "unconscious"
+    ]
+  },
+  {
+    "id": "stunned",
+    "category": "condition",
+    "title": "Stunned",
+    "aliases": [
+      "stun"
+    ],
+    "tags": [
+      "condition",
+      "debuff",
+      "combat"
+    ],
+    "summary": "Incapacitated. Can't do anything. Attacks against you have advantage; melee attacks that hit, crit.",
+    "tooltipBody": "Incapacitated. Can't do anything. Attacks against you have advantage, and melee attacks that hit, crit.",
+    "body": "Incapacitated. Can't do anything. Attacks against you have advantage, and melee attacks that hit, crit.",
+    "relatedIds": [
+      "incapacitated",
+      "paralyzed",
+      "unconscious"
+    ]
+  },
+  {
+    "id": "unconscious",
+    "category": "condition",
+    "title": "Unconscious",
+    "aliases": [],
+    "tags": [
+      "condition",
+      "debuff",
+      "combat"
+    ],
+    "summary": "Incapacitated. Can't do anything. Attacks against you have advantage; melee attacks that hit, crit.",
+    "tooltipBody": "Incapacitated. Can't do anything. Attacks against you have advantage, and melee attacks that hit, crit.",
+    "body": "Incapacitated. Can't do anything. Attacks against you have advantage, and melee attacks that hit, crit.",
+    "relatedIds": [
+      "incapacitated",
+      "paralyzed",
+      "stunned",
+      "dying"
+    ]
+  },
+  {
+    "id": "charged",
+    "category": "condition",
+    "title": "Charged",
+    "aliases": [],
+    "tags": [
+      "condition",
+      "minor-status",
+      "lightning"
+    ],
+    "summary": "Minor status. Gained when you take lightning damage. Lasts 1 minute. Some lightning spells have extra effects against Charged creatures.",
+    "tooltipBody": "Minor status. Gained when you take lightning damage. Lasts 1 minute. Some lightning spells have additional effects against Charged creatures (e.g., Overload). Ends when combat ends or after 1 minute.",
+    "body": "Charged is a minor status condition inflicted when a creature takes lightning damage. By itself, Charged has no mechanical effect. However, certain lightning spells (such as Overload) have additional effects against Charged creatures. The condition ends when combat ends or after 1 minute.",
+    "relatedIds": [
+      "smoldering",
+      "distracted"
+    ]
+  },
+  {
+    "id": "distracted",
+    "category": "condition",
+    "title": "Distracted",
+    "aliases": [],
+    "tags": [
+      "condition",
+      "minor-status",
+      "combat"
+    ],
+    "summary": "Minor status. A target is distracted if adjacent to or Taunted by an ally, or if it cannot see you.",
+    "tooltipBody": "Minor status. A target is distracted if it is adjacent to or Taunted by an ally, or if it cannot see you. Some spells and abilities have additional effects against Distracted creatures.",
+    "body": "Distracted is a minor status condition. A target is distracted if it is adjacent to or Taunted by an ally, or if it cannot see you. Some spells and abilities have additional effects against Distracted creatures.",
+    "relatedIds": [
+      "taunted",
+      "charged",
+      "smoldering"
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+.link {
+  color: var(--ifm-color-primary);
+  border-bottom: 1px dashed currentColor;
+  text-decoration: none;
+}
+.link:hover { border-bottom-style: solid; }

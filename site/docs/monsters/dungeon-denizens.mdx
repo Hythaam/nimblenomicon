@@ -1,0 +1,132 @@
+---
+title: Dungeon Denizens
+sidebar_label: Dungeon Denizens
+---
+
+# Dungeon Denizens
+
+> For some creatures, **YOU** are the loot at the end of the dungeon.
+
+Dungeon denizens lurk in the deepest, darkest corners — waiting in ambush, dissolving treasure, or imitating the very objects adventurers reach for.
+
+---
+
+## Stirges
+
+Blood-drinking vermin that latch on and don't let go.
+
+**Latched On.** You move where your target moves until either dies. Your attacks can't miss or be Defended/Interposed against. Attacks that miss you damage your target instead.
+
+**Evasive Flier.** Attacks against stirges are made with disadvantage.
+
+<StatBlock
+  name="Stirge"
+  stats={[
+    { label: "Level", value: "½" },
+    { label: "Size", value: "Tiny" },
+    { label: "Speed", value: "Fly 6" },
+  ]}
+  description="Latch On: 1d4+2. On hit: Latched On."
+/>
+
+<StatBlock
+  name="Greater Stirge"
+  stats={[
+    { label: "Level", value: "6" },
+    { label: "Size", value: "Small" },
+    { label: "Speed", value: "Fly 8" },
+  ]}
+  description="Latch On: 1d12+10. On hit: Latched On."
+/>
+
+---
+
+## Oozes
+
+Amorphous, acidic blobs that split when struck.
+
+**Goopy.** When crit or dealt any slashing damage: summon X ooze minions (size: d6); their attacks inflict Digested.
+
+**Digestive Touch.** Contact with an ooze inflicts the *Digested* condition: they deal an additional X damage for each time the target has been Digested this encounter.
+
+<StatBlock
+  name="Gray Ooze"
+  stats={[
+    { label: "Level", value: "1" },
+    { label: "Size", value: "Medium" },
+  ]}
+  description="Acidic Touch (2×): 1d6+2."
+/>
+
+<StatBlock
+  name="Ochre Jelly"
+  stats={[
+    { label: "Level", value: "4" },
+    { label: "Size", value: "Large" },
+  ]}
+  description="Acidic Touch (2×): 1d6+3."
+/>
+
+<StatBlock
+  name="Black Pudding"
+  stats={[
+    { label: "Level", value: "8" },
+    { label: "Size", value: "Large" },
+  ]}
+  description="Acidic Touch (2×): Reach 2. 1d6+5."
+/>
+
+<StatBlock
+  name="Elder Ooze"
+  stats={[
+    { label: "Level", value: "12" },
+    { label: "Size", value: "Huge" },
+  ]}
+  description="Acidic Touch (3×): Reach 3. 1d6+6."
+/>
+
+---
+
+## Mimics
+
+Masters of disguise that pose as mundane objects before striking.
+
+**Sticky.** Mimic hits also Grapple (<RuleRef id="grappled" />) and can Grapple any number of creatures. When crit: release 1 creature (attacker's choice).
+
+**Ambusher.** Mimics always start first and heroes roll Initiative with <RuleRef id="disadvantage" />.
+
+<StatBlock
+  name="Tiny Mimic"
+  stats={[
+    { label: "Level", value: "1" },
+    { label: "Size", value: "Tiny" },
+    { label: "Forms", value: "Cup, Shoe, Apple, Candlestick, Potion, Pebble" },
+  ]}
+  description="Pseudopod: 1d4 (escape DC 9). OR Bite (a Grappled creature): 1d12."
+/>
+
+<StatBlock
+  name="Small Mimic"
+  stats={[
+    { label: "Level", value: "2" },
+    { label: "Size", value: "Small" },
+    { label: "Forms", value: "Backpack, Shield/Weapon, Chair, Crate, Tree Stump" },
+  ]}
+  description="Pseudopod: 1d6 (escape DC 11). OR Bite (a Grappled creature): 1d20."
+/>
+
+<StatBlock
+  name="Medium Mimic"
+  stats={[
+    { label: "Level", value: "6" },
+    { label: "Size", value: "Medium" },
+    { label: "Forms", value: "Table, Treasure Chest, Barrel, Bookshelf, Door, Bed" },
+  ]}
+  description="Pseudopod: 1d8 (escape DC 13). OR Bite (a Grappled creature): 2d20."
+/>
+
+---
+
+## Dungeon Denizen Loot
+
+Tarnished coins (partially dissolved by acid), ancient bones with traces of gnaw marks, indigestible items (bones, gems, magical trinkets), a leather-bound journal (water-damaged pages), lockpicks, a treasure map (only half), boots (suspiciously untouched by corrosion).

@@ -1,0 +1,145 @@
+[
+  {
+    "id": "attack",
+    "category": "action",
+    "title": "Attack",
+    "aliases": ["attacking"],
+    "tags": ["action", "combat"],
+    "summary": "Any offensive action. Roll the listed die and deal damage. Rolling a 1 is a miss.",
+    "tooltipBody": "Any spell or ability that can harm an enemy. Roll the die listed and deal that much damage. Rolling a 1 misses. Crits occur when you roll the maximum on the Primary Die.",
+    "body": "Any spell or ability that can harm an enemy counts as an attack. Roll the die listed on the spell, weapon, or ability, and deal that much damage. However, if you roll a 1, you miss, and the attack has no effect. For attacks with multiple dice, the leftmost die is called the Primary Die. It determines whether the attack is a hit or a miss.\n\nExploding Critical Hits: Rolling the max on a Primary Die is a critical hit. When you crit, roll the Primary Die again, and add the result to the total. Repeat this each time you roll the maximum—there's no limit, except your luck! Crits also ignore monster armor.",
+    "relatedIds": ["rush-attacks", "advantage", "disadvantage", "cast-spell"]
+  },
+  {
+    "id": "cast-spell",
+    "category": "action",
+    "title": "Cast Spell",
+    "aliases": ["spellcasting", "casting a spell"],
+    "tags": ["action", "spellcasting", "mana"],
+    "summary": "Requires one free hand (or spellcasting focus), ability to speak, and possibly mana.",
+    "tooltipBody": "Casting a spell requires 1 free hand (or a spellcasting focus), ability to speak, and may require mana. A spell's mana cost equals its spell tier; cantrips cost 0 mana.",
+    "body": "Casting a spell requires a hero to have 1 hand free (or a held spellcasting focus), the ability to speak, and may require mana as well. A spell's mana cost is equal to its spell tier; cantrips cost no mana.\n\nUpcasting Spells: Some spells have a greater effect for each additional mana spent on them. A hero can upcast a spell only up to the tier they have unlocked.",
+    "relatedIds": ["mana", "cantrip", "concentration", "attack"]
+  },
+  {
+    "id": "move",
+    "category": "action",
+    "title": "Move",
+    "aliases": ["moving", "movement"],
+    "tags": ["action", "movement", "combat"],
+    "summary": "Move up to your speed (6 spaces by default). Can be split across other actions.",
+    "tooltipBody": "Move up to your speed (6 spaces by default). This movement can be broken up with other actions.",
+    "body": "A character can move up to their speed (6 spaces, unless otherwise noted). This movement can be broken up with other actions if desired, and a hero can use multiple actions to Move multiple times in one turn.",
+    "relatedIds": ["difficult-terrain", "hampered", "slowed", "teleport"]
+  },
+  {
+    "id": "assess",
+    "category": "action",
+    "title": "Assess",
+    "aliases": ["assessing"],
+    "tags": ["action", "combat", "roleplay"],
+    "summary": "Make a DC 12 skill check to ask a question, create an opening, or anticipate danger.",
+    "tooltipBody": "Make a DC 12 skill check to: Ask a Question about enemies or environment, Create an Opening (increase next Primary Die by 1), or Anticipate Danger (reduce all Primary Dice against you by 1 this round).",
+    "body": "A great way to include creativity and role-playing in combat. Choose one of the following and then make a DC 12 skill check to:\n- Ask a Question: About a weakness, ability, or immediate plans of enemies, the environment, story, etc.\n- Create an Opening: Increase the next Primary Die Roll against a target by 1 this round.\n- Anticipate Danger: Reduce all Primary Dice rolled against you by 1 this round.",
+    "relatedIds": ["attack", "move", "cast-spell"]
+  },
+  {
+    "id": "bonus-action",
+    "category": "action",
+    "title": "Bonus Action",
+    "aliases": [],
+    "tags": ["action", "combat"],
+    "summary": "A special extra action granted by specific abilities or features.",
+    "tooltipBody": "A special extra action granted by specific abilities or features. Not all heroes have a bonus action by default.",
+    "body": "A special extra action granted by specific class abilities, spells, or features. Not all heroes have a bonus action by default—only specific abilities grant them.",
+    "relatedIds": ["attack", "move", "free"]
+  },
+  {
+    "id": "reaction",
+    "category": "action",
+    "title": "Reaction",
+    "aliases": [],
+    "tags": ["action", "combat"],
+    "summary": "An action taken outside of your turn in response to a trigger.",
+    "tooltipBody": "An action taken outside of your turn in response to a specific trigger. Only certain abilities grant reactions.",
+    "body": "An action taken outside of your turn in response to a specific trigger. Only certain class abilities, spells, or features grant reactions. Common reactions include opportunity attacks and triggered abilities.",
+    "relatedIds": ["attack", "free"]
+  },
+  {
+    "id": "free-action",
+    "category": "action",
+    "title": "Free Action",
+    "aliases": ["free"],
+    "tags": ["action", "mechanic"],
+    "summary": "Does not cost an action or resource. Heroes can do simple tasks for free 1/turn.",
+    "tooltipBody": "Does not cost an action or any other resource (e.g., mana) unless otherwise specified. Heroes can do simple tasks (open an unlocked door, shout a simple phrase, drop an item, end concentration, etc.) for free 1/turn.",
+    "body": "Does not cost an action or any other resource (e.g., mana) unless otherwise specified. Heroes can do simple tasks (open an unlocked door, shout a simple phrase, drop an item, end concentration, etc.) for free 1/turn.",
+    "relatedIds": ["bonus-action", "reaction"]
+  },
+  {
+    "id": "defend",
+    "category": "action",
+    "title": "Defend",
+    "aliases": ["defending"],
+    "tags": ["action", "reaction", "heroic", "combat", "defense"],
+    "summary": "Heroic Reaction: Reduce damage from any single attack by your Armor value. 1/round.",
+    "tooltipBody": "Heroic Reaction: Reduce damage from any single incoming attack by your Armor value. Can only be used once per round.",
+    "body": "A Heroic Reaction available to all heroes. When you are struck by an attack, you may use your Defend reaction to reduce the damage taken by your Armor value. This can only be used once per round.",
+    "relatedIds": ["reaction", "armor", "interpose"]
+  },
+  {
+    "id": "interpose",
+    "category": "action",
+    "title": "Interpose",
+    "aliases": ["interposing"],
+    "tags": ["action", "reaction", "heroic", "combat", "movement"],
+    "summary": "Heroic Reaction: If a creature within 2 spaces would be struck, push them out of the way and become the new target. 1/round.",
+    "tooltipBody": "Heroic Reaction: If a creature within 2 spaces would be struck by an attack, push them out of the way and become the new target. Enter their space and move them adjacent. 1/round.",
+    "body": "A Heroic Reaction available to all heroes. When a creature within 2 spaces of you would be struck by an attack, you may use your Interpose reaction to push them out of the way and become the new target. You enter their space, and they are moved to an adjacent space. Can only be used once per round.",
+    "relatedIds": ["reaction", "defend", "opportunity-attack"]
+  },
+  {
+    "id": "opportunity-attack",
+    "category": "action",
+    "title": "Opportunity Attack",
+    "aliases": ["opportunity attacks", "opp attack"],
+    "tags": ["action", "reaction", "heroic", "combat", "melee"],
+    "summary": "Heroic Reaction: A melee attack with disadvantage against an adjacent enemy as it willingly moves away. Heroes only. 1/round.",
+    "tooltipBody": "Heroic Reaction: Make a melee attack with disadvantage against an adjacent enemy when it willingly moves away. Only heroes (not monsters) can make opportunity attacks. 1/round.",
+    "body": "A Heroic Reaction available to all heroes. When an adjacent enemy willingly moves away from you, you may make a melee attack against it with disadvantage. Only heroes—not monsters—can make opportunity attacks. Can only be used once per round.",
+    "relatedIds": ["reaction", "attack", "move", "defend"]
+  },
+  {
+    "id": "help",
+    "category": "action",
+    "title": "Help",
+    "aliases": ["helping"],
+    "tags": ["action", "reaction", "heroic", "combat", "support"],
+    "summary": "Heroic Reaction: Grant an ally advantage on a roll if you can explain how you help. One Help reaction per roll. 1/round.",
+    "tooltipBody": "Heroic Reaction: Grant an ally advantage on a roll if you can reasonably explain how you could help. Only one Help reaction can be used per roll. 1/round.",
+    "body": "A Heroic Reaction available to all heroes. You may grant an ally advantage on a roll by using your Help reaction, provided you can reasonably explain how you could assist them. Only one Help reaction can be applied per roll. Can only be used once per round.",
+    "relatedIds": ["reaction", "advantage", "assess"]
+  },
+  {
+    "id": "grapple",
+    "category": "action",
+    "title": "Grapple",
+    "aliases": ["grappling"],
+    "tags": ["action", "combat", "melee"],
+    "summary": "Action: Attempt to grab a creature within Reach with a free arm. Target saves STR or DEX (DC 10+STR or DEX). 1 action.",
+    "tooltipBody": "Action: Attempt to grab a creature within Reach with a free arm. Target makes a STR or DEX save (DC 10+your STR or DEX). If the target is your size or smaller: Grappled. If larger: you gain Riding instead.",
+    "body": "Spend 1 action to attempt to grab a creature within your Reach using a free arm. The target must make a STR or DEX save (DC 10 + your STR or DEX modifier). On a failed save: if the creature is your size or smaller, it becomes Grappled; if the creature is larger than you, you gain the Riding condition instead.",
+    "relatedIds": ["grappled", "riding", "strength", "dexterity"]
+  },
+  {
+    "id": "shove",
+    "category": "action",
+    "title": "Shove",
+    "aliases": ["shoving"],
+    "tags": ["action", "combat", "melee", "movement"],
+    "summary": "Action: Attempt to push a creature. Forced movement rules apply. Target makes a STR save.",
+    "tooltipBody": "Action: Attempt to push a creature. Forced movement rules apply. Target makes a STR save.",
+    "body": "Spend 1 action to shove a creature within your Reach. The target must make a STR save or be pushed. Forced movement rules apply—the creature is moved and may take damage if halted by the environment or another creature.",
+    "relatedIds": ["knockback", "grapple", "prone", "strength"]
+  }
+]

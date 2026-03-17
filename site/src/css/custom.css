@@ -1,0 +1,142 @@
+/**
+ * Nimblenomicon — custom design tokens and global styles.
+ */
+
+/* ── Avenir Next ────────────────────────────────────────────────────────── */
+@font-face {
+  font-family: 'Avenir Next';
+  src: url('/fonts/AvenirNext-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Avenir Next';
+  src: url('/fonts/AvenirNext-Italic.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Avenir Next';
+  src: url('/fonts/AvenirNext-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Avenir Next';
+  src: url('/fonts/AvenirNext-BoldItalic.otf') format('opentype');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* ── Beaufort for LoL ───────────────────────────────────────────────────── */
+@font-face {
+  font-family: 'Beaufort for LoL';
+  src: url('/fonts/BeaufortforLOL-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Beaufort for LoL';
+  src: url('/fonts/BeaufortforLOL-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Beaufort for LoL';
+  src: url('/fonts/BeaufortforLOL-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Beaufort for LoL';
+  src: url('/fonts/BeaufortforLOL-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Beaufort for LoL';
+  src: url('/fonts/BeaufortforLOL-Heavy.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --ifm-color-primary: #8b1a1a;
+  --ifm-color-primary-dark: #7a1717;
+  --ifm-color-primary-darker: #6e1414;
+  --ifm-color-primary-darkest: #5a1111;
+  --ifm-color-primary-light: #9e2020;
+  --ifm-color-primary-lighter: #b02424;
+  --ifm-color-primary-lightest: #c93030;
+
+  --ifm-font-family-base: 'Avenir Next', 'Avenir', sans-serif;
+  --ifm-font-family-monospace: 'SFMono-Regular', 'Menlo', 'Courier New', monospace;
+  --ifm-heading-font-family: 'Beaufort for LoL', 'Georgia', serif;
+
+  --ifm-background-color: #faf7f2;
+  --ifm-background-surface-color: #fff;
+
+  --ifm-navbar-background-color: #2c1a0e;
+  --ifm-navbar-link-color: #f5e6c8;
+  --ifm-navbar-link-hover-color: #fff;
+
+  --ifm-code-font-size: 90%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #e06c6c;
+  --ifm-color-primary-dark: #d95454;
+  --ifm-color-primary-darker: #d24848;
+  --ifm-color-primary-darkest: #bf3030;
+  --ifm-color-primary-light: #e78484;
+  --ifm-color-primary-lighter: #ec9898;
+  --ifm-color-primary-lightest: #f5c0c0;
+
+  --ifm-background-color: #1a1208;
+  --ifm-background-surface-color: #23190d;
+
+  --ifm-navbar-background-color: #130d04;
+  --ifm-navbar-link-color: #f5e6c8;
+
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+body {
+  font-size: 16px;
+}
+
+article h1 { font-size: 2rem; }
+article h2 { font-size: 1.5rem; }
+article h3 { font-size: 1.2rem; }
+
+/* Center article content within the content column */
+.markdown,
+.pagination-nav,
+.theme-doc-breadcrumbs {
+  max-width: 72ch;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.navbar__title {
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  font-family: 'Beaufort for LoL', 'Georgia', serif;
+}
+
+.menu__list-item-collapsible > .menu__link,
+.sidebar-section-title {
+  font-family: 'Beaufort for LoL', 'Georgia', serif;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}

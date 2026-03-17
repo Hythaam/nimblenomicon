@@ -1,0 +1,46 @@
+[
+  {
+    "id": "lucky",
+    "category": "trait",
+    "title": "Lucky",
+    "aliases": [],
+    "tags": ["trait", "combat", "general"],
+    "summary": "Once per round, reroll any one die and take the higher result.",
+    "tooltipBody": "Once per round, reroll any one die and take the higher result.",
+    "body": "Once per round, you may reroll any one die and take the higher result. This can be used on attack rolls, damage rolls, saves, or skill checks. Lucky cannot be used on dice that have already been rerolled.",
+    "relatedIds": ["advantage"]
+  },
+  {
+    "id": "tough",
+    "category": "trait",
+    "title": "Tough",
+    "aliases": [],
+    "tags": ["trait", "defense", "hp"],
+    "summary": "Increase your maximum HP by 4 and reduce the first Wound you take each encounter.",
+    "tooltipBody": "Increase your maximum HP by 4. The first time each encounter you would gain a Wound, you may ignore it.",
+    "body": "Increase your maximum HP by 4. The first time each encounter you would gain a Wound, you may choose to ignore it. Once per encounter only.",
+    "relatedIds": ["wound", "wounded", "dying"]
+  },
+  {
+    "id": "alert",
+    "category": "trait",
+    "title": "Alert",
+    "aliases": [],
+    "tags": ["trait", "initiative", "combat"],
+    "summary": "You cannot be surprised. Add +2 to your Initiative rolls.",
+    "tooltipBody": "You cannot be surprised. Add +2 to Initiative rolls.",
+    "body": "You cannot be surprised and cannot be caught flat-footed. Additionally, you add +2 to all Initiative rolls. Even if your allies are surprised, you may still act normally during a surprise round.",
+    "relatedIds": ["encounter"]
+  },
+  {
+    "id": "mobile",
+    "category": "trait",
+    "title": "Mobile",
+    "aliases": [],
+    "tags": ["trait", "movement", "combat"],
+    "summary": "Your speed increases by 2 spaces, and moving out of an enemy's reach does not provoke opportunity attacks.",
+    "tooltipBody": "Your speed increases by 2 spaces. Moving out of an enemy's reach never provokes opportunity attacks.",
+    "body": "Your speed increases by 2 spaces. Moving out of an enemy's reach never provokes opportunity attacks. You can dash past enemies freely without drawing their ire.",
+    "relatedIds": ["move", "difficult-terrain", "hampered"]
+  }
+]

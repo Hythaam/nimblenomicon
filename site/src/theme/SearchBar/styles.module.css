@@ -1,0 +1,50 @@
+.form {
+  display: flex;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  border-radius: 6px;
+  overflow: hidden;
+  transition: border-color 0.15s, background 0.15s;
+}
+
+.form:focus-within {
+  background: rgba(255, 255, 255, 0.2);
+  border-color: rgba(255, 255, 255, 0.5);
+}
+
+.input {
+  background: transparent;
+  border: none;
+  color: var(--ifm-navbar-link-color);
+  font-size: 0.875rem;
+  padding: 0.35rem 0.6rem;
+  width: 160px;
+  outline: none;
+}
+
+.input::placeholder {
+  color: rgba(255, 255, 255, 0.55);
+}
+
+/* Widen on focus */
+.input:focus {
+  width: 200px;
+  transition: width 0.2s ease;
+}
+
+.button {
+  background: transparent;
+  border: none;
+  border-left: 1px solid rgba(255, 255, 255, 0.2);
+  color: var(--ifm-navbar-link-color);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  padding: 0.35rem 0.5rem;
+  transition: background 0.15s;
+}
+
+.button:hover {
+  background: rgba(255, 255, 255, 0.15);
+}

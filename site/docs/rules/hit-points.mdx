@@ -1,0 +1,83 @@
+---
+title: Hit Points, Wounds & Resting
+sidebar_label: Hit Points & Wounds
+---
+
+# Hit Points, Wounds & Recovery
+
+## Hit Points (HP)
+
+Hit Points represent your ability to endure damage. Damage reduces your HP, which can never go below 0. When you reach 0 HP, you gain **1 Wound** and the <RuleRef id="dying" /> condition.
+
+---
+
+## Dying
+
+While <RuleRef id="dying" />, your actions are limited to **1 per turn** and <RuleRef id="concentration" /> is broken. You are also at risk of further serious harm:
+
+- **Attacking or casting spells** causes **1 Wound** unless you succeed on a **DC 10 STR save**.
+- **Taking damage while Dying** causes **2 Wounds**; a crit causes **3** instead.
+
+You remain Dying until you regain at least 1 HP.
+
+---
+
+## Wounds
+
+Wounds are serious injuries tracking how close you are to death. HP recovers quickly; Wounds linger.
+
+- You gain 1 Wound whenever you drop to 0 HP.
+- Wounds are typically recovered at a rate of **1 per Safe Rest**.
+- At **6 Wounds**, you die (unless a class ability changes this number).
+
+The <RuleRef id="wounded" /> condition applies to any hero who has at least 1 Wound.
+
+<Callout type="note">
+**Gritty Optional Rule:** GMs can reduce the maximum Wound threshold for a more lethal game — anywhere from 5 Wounds (slightly harder) down to 1–2 Wounds for extreme lethality. Each Wound can also impose a cumulative –1 penalty to rolls.
+</Callout>
+
+---
+
+## Temporary HP
+
+Some abilities and effects grant **temporary HP** (temp HP). Temp HP is reduced first when you take damage.
+
+- Temp HP does **not** stack: if you would gain temp HP while you already have it, choose which amount to keep.
+- Temp HP expires after a **Safe Rest**.
+
+---
+
+## Hit Dice
+
+Hit Dice (HD) represent your ability to quickly recover from minor injuries. They are spent to regain HP during <RuleRef id="field-rest" />.
+
+- Heroes start with a maximum of **1 Hit Die** at level 1.
+- Your Hit Die maximum increases by **1 each time you level up** (equal to your level by default).
+- Hit Dice are fully recovered during a **Safe Rest**.
+- The size of your Hit Die is determined by your class.
+
+### Spending Hit Dice
+
+**During a Catch Breath (Field Rest):** Expend any number of Hit Dice one at a time. Roll each and add your STR. Regain that many HP.
+
+**During Make Camp (Field Rest):** Take the maximum value for each Hit Die expended instead of rolling. Add STR as usual.
+
+<Callout type="note">
+If your STR is negative, subtract it from each HD you expend — your frail body doesn't recover as quickly as others.
+</Callout>
+
+---
+
+## Concentration
+
+Some activities — certain spells, sustained effects — require **Concentration** to maintain. A character can only concentrate on **one thing at a time**.
+
+Concentration **breaks** when:
+- The concentrating character is **critically hit** (unless they pass a **DC 10 STR save**)
+- The character **drops to 0 HP**
+- The character is <RuleRef id="incapacitated" />
+- The character voluntarily ends it (free action)
+
+<Callout type="tip">
+When multi-action spells are cast over multiple turns, Concentration must be maintained throughout — and no other actions or reactions may be taken in the meantime (except free actions).
+</Callout>
