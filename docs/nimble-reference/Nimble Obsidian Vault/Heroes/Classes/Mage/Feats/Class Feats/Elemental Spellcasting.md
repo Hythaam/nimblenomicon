@@ -1,0 +1,1 @@
+You know Fire, Ice, and Lightning cantrips.

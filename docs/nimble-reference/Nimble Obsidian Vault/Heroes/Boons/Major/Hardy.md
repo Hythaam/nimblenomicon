@@ -1,0 +1,1 @@
+Whenever you would roll your Hit Dice to increase your max HP, roll with advantage 2 instead.

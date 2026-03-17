@@ -1,0 +1,1 @@
+Choose a Combat Tactic and gain +1 max Combat Dice.

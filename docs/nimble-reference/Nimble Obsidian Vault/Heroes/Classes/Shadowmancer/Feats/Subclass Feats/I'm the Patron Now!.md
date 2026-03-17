@@ -1,0 +1,1 @@
+Summon 2 shadow minions for free when you roll Initiative.

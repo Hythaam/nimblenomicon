@@ -1,0 +1,1 @@
+When you hit a Medium or smaller creature with Shadow Blast, you can push the creature up to 2 spaces away from yourself.

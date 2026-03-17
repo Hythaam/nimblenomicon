@@ -1,0 +1,1 @@
+Treat Improvised Weapons as having Thrown 4. Trickshot applies to Improvised Weapons.

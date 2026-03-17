@@ -1,0 +1,1 @@
+Whenever an enemy crits you, gain 1 Fury Die.

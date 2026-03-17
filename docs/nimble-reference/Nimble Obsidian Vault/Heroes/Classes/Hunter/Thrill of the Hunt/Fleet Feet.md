@@ -1,0 +1,1 @@
+Move up to your speed for free, ignoring difficult terrain.

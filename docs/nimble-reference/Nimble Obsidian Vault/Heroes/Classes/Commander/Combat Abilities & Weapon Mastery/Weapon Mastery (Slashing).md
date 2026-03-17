@@ -1,0 +1,1 @@
+Your attacks with slashing weapons cannot miss unarmored enemies.

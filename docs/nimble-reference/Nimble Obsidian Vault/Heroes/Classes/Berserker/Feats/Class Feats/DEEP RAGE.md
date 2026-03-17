@@ -1,0 +1,1 @@
+Dropping to 0 HP does not cause your Rage to end.

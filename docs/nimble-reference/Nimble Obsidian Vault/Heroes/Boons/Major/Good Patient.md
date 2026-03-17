@@ -1,0 +1,1 @@
+Whenever you would receive healing, you heal an additional KEY HP.

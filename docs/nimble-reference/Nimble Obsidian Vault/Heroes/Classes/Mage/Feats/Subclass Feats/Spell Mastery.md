@@ -1,0 +1,1 @@
+(1/encounter) When upcasting a Signature spell, upcast it one tier higher for free (even beyond your unlocked spell tier).

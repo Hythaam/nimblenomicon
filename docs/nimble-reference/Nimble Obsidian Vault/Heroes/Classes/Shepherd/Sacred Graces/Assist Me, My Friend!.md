@@ -1,0 +1,1 @@
+Whenever you make your first melee attack each round, you may add your Lifebinding Spirit's damage to the attack.

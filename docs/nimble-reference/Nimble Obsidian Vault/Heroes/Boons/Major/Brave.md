@@ -1,0 +1,1 @@
++2 to damage while you have the most enemies adjacent to you.

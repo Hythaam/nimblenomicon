@@ -1,0 +1,1 @@
+(1/ turn) After you land a hit, you may treat your next attack this turn as if you rolled that same amount instead of rolling again.

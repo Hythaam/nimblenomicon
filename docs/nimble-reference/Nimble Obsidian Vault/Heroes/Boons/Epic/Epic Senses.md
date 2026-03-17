@@ -1,0 +1,1 @@
+Gain Blindsight 6 or Darkvision 16.

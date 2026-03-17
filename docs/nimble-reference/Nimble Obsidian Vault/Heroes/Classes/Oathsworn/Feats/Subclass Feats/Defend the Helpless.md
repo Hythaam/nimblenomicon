@@ -1,0 +1,1 @@
+Immediately after Interposing, you may spend an action to make a melee attack against the attacker.

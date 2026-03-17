@@ -1,0 +1,1 @@
+Reach 4, Action: 1d4+LVL damage, OR apply an Affliction on hit instead. On crit: do both.

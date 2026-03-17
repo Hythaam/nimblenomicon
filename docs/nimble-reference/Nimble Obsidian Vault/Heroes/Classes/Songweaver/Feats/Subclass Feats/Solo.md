@@ -1,0 +1,1 @@
+(1/Safe Rest) Action: Embody the spirit of a legendary hero. Gain LVL+WIL Temp HP. Your attacks deal +WIL psychic damage (ignoring armor). You may Recite Legend without spending Songweaver's Inspiration. Solo ends if you have no Temp HP.

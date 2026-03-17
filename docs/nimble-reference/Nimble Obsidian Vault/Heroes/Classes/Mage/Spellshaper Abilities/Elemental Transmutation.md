@@ -1,0 +1,1 @@
+(1 mana) Change the damage type of a spell to: Fire, Ice, Lightning, Necrotic, or Radiant.

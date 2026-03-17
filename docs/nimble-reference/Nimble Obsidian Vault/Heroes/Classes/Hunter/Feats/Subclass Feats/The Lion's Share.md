@@ -1,0 +1,1 @@
+When your Prey dies, gain WIL+LVL Temp HP.

@@ -1,0 +1,1 @@
+Add WIL to your ranged weapon damage.

@@ -1,0 +1,1 @@
+Your shadow minions can Interpose for allies, but not yourself (1/round, does not cost you an action).

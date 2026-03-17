@@ -1,0 +1,1 @@
+(1/Safe Rest) Action: Enemies in your aura are Blinded until the end of their next turn.

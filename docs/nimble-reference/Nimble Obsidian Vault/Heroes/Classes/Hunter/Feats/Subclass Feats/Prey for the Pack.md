@@ -1,0 +1,1 @@
+(1/encounter) Designate your quarry as Prey. When you hit your Prey in melee, your allies gain advantage on attacks against it until the start of your next turn.

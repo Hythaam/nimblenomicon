@@ -1,0 +1,1 @@
+You are resistant to all damage while Interposing.

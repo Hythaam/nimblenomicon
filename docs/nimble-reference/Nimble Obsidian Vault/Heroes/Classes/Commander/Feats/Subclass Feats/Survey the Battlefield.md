@@ -1,0 +1,1 @@
+When you roll Initiative, regain 1 use of Coordinated Strike. +1 max Combat Dice.

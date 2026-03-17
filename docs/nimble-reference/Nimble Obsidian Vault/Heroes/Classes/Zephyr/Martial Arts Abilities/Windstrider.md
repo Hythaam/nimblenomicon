@@ -1,0 +1,1 @@
+If you move through the space of a willing creature while using Windstep, they can move with you and choose any space adjacent to your path of movement to end in.

@@ -1,0 +1,1 @@
+You can produce minor magical effects related to your Signature spell school, which can provide mundane utility and impress those impressionable.

@@ -1,0 +1,1 @@
++2 Armor while you have the most enemies adjacent to you.

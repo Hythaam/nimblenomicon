@@ -1,0 +1,1 @@
+If a creature dies while you Sneak Attack them, you may turn Invisible until you attack again or until the beginning of your next turn.

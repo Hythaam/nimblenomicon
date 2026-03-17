@@ -1,0 +1,1 @@
+You are proficient with plate armor.

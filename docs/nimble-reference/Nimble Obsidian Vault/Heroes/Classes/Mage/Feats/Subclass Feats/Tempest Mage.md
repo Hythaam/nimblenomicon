@@ -1,0 +1,1 @@
+Learn 1 cantrip and 1 tiered spell from the Wind school.

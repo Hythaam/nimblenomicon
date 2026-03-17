@@ -1,0 +1,1 @@
+When you attack a Taunted or Charmed enemy using Swiftstrike, you may deal +KEY damage and cause them to fall Prone.

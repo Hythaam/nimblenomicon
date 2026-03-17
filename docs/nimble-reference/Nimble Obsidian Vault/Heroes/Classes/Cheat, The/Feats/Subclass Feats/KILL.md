@@ -1,0 +1,1 @@
+When you crit an enemy with fewer max HP than you, it dies.

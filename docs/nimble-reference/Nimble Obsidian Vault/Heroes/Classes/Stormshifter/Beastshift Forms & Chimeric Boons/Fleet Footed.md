@@ -1,0 +1,1 @@
++2 speed. Advantage on Stealth checks and against the Grappled condition.

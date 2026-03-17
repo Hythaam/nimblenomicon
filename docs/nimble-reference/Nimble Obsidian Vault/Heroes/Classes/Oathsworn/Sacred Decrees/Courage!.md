@@ -1,0 +1,1 @@
+(1/encounter) When you or an ally in your aura would drop to 0 HP, set their HP to 1 instead.

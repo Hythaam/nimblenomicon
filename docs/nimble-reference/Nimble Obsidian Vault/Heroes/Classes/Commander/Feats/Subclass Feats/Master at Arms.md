@@ -1,0 +1,1 @@
+Roll Combat Dice with advantage.

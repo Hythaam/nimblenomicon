@@ -1,0 +1,1 @@
+When you receive healing for the first time on a turn, you may heal another target within 6 spaces HP equal to your STR.

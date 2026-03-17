@@ -1,0 +1,1 @@
+Your Veilwalker's Blessing ability recharges when you roll Initiative. This charge is lost if unspent at the end of combat.

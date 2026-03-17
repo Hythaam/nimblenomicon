@@ -1,0 +1,1 @@
+Gain a magical pool of healing power. This pool's maximum is always equal to 5xLVL and recharges on a Safe Rest. Action: Touch a target and spend any amount of remaining healing power to restore that many HP.

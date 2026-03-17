@@ -1,0 +1,1 @@
++1 to any 2 of your stats. Anytime you roll less than 6 on a Fury Die, change it to 6 instead.

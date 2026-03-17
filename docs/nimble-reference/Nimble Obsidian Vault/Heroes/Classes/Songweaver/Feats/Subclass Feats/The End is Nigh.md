@@ -1,0 +1,1 @@
+(1/turn) Suffer a Wound. Reduce the mana cost of your spell by the number of Wounds you have for the rest of your turn.

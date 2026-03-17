@@ -1,0 +1,1 @@
+Reroll a missed attack, add 1 to the Primary Die, and deal extra damage equal to a roll of your Combat Die.

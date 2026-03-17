@@ -1,0 +1,1 @@
++1 max Hit Die, +2 Might.

@@ -1,0 +1,1 @@
+(1/encounter) Action: Expend any number of Hit Dice. Heal or damage a creature within Range 12 equal to the amount rolled, then recover a Wound.

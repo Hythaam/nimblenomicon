@@ -1,0 +1,1 @@
+Your Swiftstrike can also target a 2nd creature within Reach 2.

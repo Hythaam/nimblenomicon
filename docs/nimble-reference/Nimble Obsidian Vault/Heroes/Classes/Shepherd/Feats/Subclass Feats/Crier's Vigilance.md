@@ -1,0 +1,1 @@
+Gain an extra use per encounter of Toll the Hour. You may choose both options when using Toll the Hour.

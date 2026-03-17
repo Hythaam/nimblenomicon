@@ -1,0 +1,1 @@
+Light dims nigh imperceptibly in your presence. Nocturnal animals often seem to follow you. (1/day) Action: Extinguish all mundane light sources that you can see.

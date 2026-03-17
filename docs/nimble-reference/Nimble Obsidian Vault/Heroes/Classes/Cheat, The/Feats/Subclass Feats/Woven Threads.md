@@ -1,0 +1,1 @@
+Twinned Threads now targets up to three creatures.

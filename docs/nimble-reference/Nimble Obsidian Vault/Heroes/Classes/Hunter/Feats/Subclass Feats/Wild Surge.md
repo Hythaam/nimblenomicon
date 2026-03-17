@@ -1,0 +1,1 @@
+(1/encounter) Ignore the Rushed Attacks penalty this turn.

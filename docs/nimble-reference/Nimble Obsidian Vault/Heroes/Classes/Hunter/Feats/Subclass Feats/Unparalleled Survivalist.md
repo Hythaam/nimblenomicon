@@ -1,0 +1,1 @@
+Gain +WIL armor. When you attack with a ranged weapon, you may first move half your speed for free.

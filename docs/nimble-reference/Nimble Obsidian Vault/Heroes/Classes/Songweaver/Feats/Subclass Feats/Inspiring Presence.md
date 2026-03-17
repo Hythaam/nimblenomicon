@@ -1,0 +1,1 @@
+Whenever you use Songweaver's Inspiration, your allies within 12 spaces who can hear you gain WIL temp HP.

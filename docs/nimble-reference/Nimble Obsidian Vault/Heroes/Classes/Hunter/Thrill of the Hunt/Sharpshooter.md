@@ -1,0 +1,1 @@
+Action: If you have not moved this turn and your quarry is 4 or more spaces away, attack them for double damage.

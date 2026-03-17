@@ -1,0 +1,1 @@
+When you Assess an enemy, you may expend a Combat Die. If you do, until the end of your next turn your attacks against that enemy deal additional damage equal to the value of the die.

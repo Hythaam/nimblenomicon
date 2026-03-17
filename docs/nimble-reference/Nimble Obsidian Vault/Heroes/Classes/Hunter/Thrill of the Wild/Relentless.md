@@ -1,0 +1,1 @@
+(1/round) If a marked creature moves away from you, move up to half your speed towards them.

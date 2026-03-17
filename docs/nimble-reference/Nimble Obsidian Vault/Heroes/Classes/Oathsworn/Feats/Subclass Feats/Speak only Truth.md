@@ -1,0 +1,1 @@
+When you roll Initiative, regain WIL mana (expires at the end of combat if unused).

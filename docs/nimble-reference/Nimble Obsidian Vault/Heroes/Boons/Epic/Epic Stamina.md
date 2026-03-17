@@ -1,0 +1,1 @@
+Rolling 4 or higher on a Hit Die during a Field Rest heals 1 Wound.

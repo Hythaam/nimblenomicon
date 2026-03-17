@@ -1,0 +1,1 @@
+The first time each encounter you use Coordinated Strike, an ally who can hear you also gains 1 action to use on their next turn.

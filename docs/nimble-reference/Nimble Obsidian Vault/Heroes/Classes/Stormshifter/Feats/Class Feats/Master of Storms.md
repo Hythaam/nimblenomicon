@@ -1,0 +1,1 @@
+You know cantrips from the Lightning and Wind schools.

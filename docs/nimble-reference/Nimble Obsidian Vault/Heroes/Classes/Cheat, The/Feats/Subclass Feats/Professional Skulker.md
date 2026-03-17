@@ -1,0 +1,1 @@
+Gain a climbing speed and advantage on Stealth checks (replaces Leave No Trace).

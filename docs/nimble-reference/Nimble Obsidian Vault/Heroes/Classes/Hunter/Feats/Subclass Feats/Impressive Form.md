@@ -1,0 +1,1 @@
++5 max HP. Upgrade your Hit Dice to d10s.

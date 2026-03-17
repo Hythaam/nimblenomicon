@@ -1,0 +1,1 @@
+While leading your party, both you and your allies roll Stealth with advantage.

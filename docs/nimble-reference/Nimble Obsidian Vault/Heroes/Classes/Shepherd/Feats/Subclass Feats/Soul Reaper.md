@@ -1,0 +1,1 @@
+When you use Searing Light to harm an enemy, make a 2nd enemy within range take the same amount of damage (ignoring armor).

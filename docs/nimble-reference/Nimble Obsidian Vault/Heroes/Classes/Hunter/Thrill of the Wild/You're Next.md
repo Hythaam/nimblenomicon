@@ -1,0 +1,1 @@
+2 actions. Pin a creature using a bladed weapon (losing access to the weapon until it is retrieved). The creature is Restrained until they can escape (DC 10+WIL).

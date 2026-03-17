@@ -1,0 +1,1 @@
+(1/round) Whenever you roll a 6 or higher on one or more healing die, the target may recover one Wound.

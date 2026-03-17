@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "18d5991976a752ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "106b8fb979dd4c80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "657d582803fddb98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Heroes/Classes/Berserker/Berserker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Berserker"
+            }
+          },
+          {
+            "id": "aa7d7d38b20904d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Combat Encounter Guidelines.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Combat Encounter Guidelines"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4b3480baadbd1fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cc4d6f5c77c00fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ced838c5e8d9106",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2042eb51602c7a99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Bandit",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "001ec2c247d51058",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 425.5
+  },
+  "right": {
+    "id": "31e699e78bd16003",
+    "type": "split",
+    "children": [
+      {
+        "id": "52da4113bb032b57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd8c2e1489670a71",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rules/Cover & Hiding.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Cover & Hiding"
+            }
+          },
+          {
+            "id": "d0d7cd62d81e1799",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rules/Cover & Hiding.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Cover & Hiding"
+            }
+          },
+          {
+            "id": "344e83ee553af7a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c16d3cc4bd1ff8a3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "816d48be469ff02e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rules/Cover & Hiding.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Cover & Hiding"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "aa7d7d38b20904d8",
+  "lastOpenFiles": [
+    "Rules/Downtime.md",
+    "Rules/Running Monsters.md",
+    "Rules/Heroic Reactions.md",
+    "Rules/Heroic Actions.md",
+    "Rules/Conditions.md",
+    "Rules/Concentration.md",
+    "Rules/Grappling.md",
+    "Rules/Cover & Hiding.md",
+    "Rules/Range & Reach.md",
+    "Rules/Speed.md",
+    "Rules/Hit Points, Dying & Wounds.md",
+    "Rules/Size.md",
+    "Rules/Skill Checks and Saves.md",
+    "Rules/Skills.md",
+    "Rules/Stats.md",
+    "Rules/Combat Encounter Guidelines.md",
+    "Rules/Advantage & Disadvantage.md",
+    "Rules/Spell Scroll Rules & Cost.md",
+    "Rules/Measuring Spaces.md",
+    "Rules/Glossary.md",
+    "Nimblenomicon.md",
+    "Foes/Monster Groups/Core Monster Groups/Bandits/Bandit.md",
+    "Untitled",
+    "Foes/Monster Groups/Core Monster Groups/Bandits/Bandits.md",
+    "Foes/Monster Groups/Core Monster Groups/Bandits/Bandit Assassin.md",
+    "Heroes/Classes/Berserker/Feats/Class Feats/Intensifying Fury.md",
+    "Heroes/Classes/Berserker/Berserker.md",
+    "Heroes/Classes/Hunter/Thrill of the Wild"
+  ]
+}

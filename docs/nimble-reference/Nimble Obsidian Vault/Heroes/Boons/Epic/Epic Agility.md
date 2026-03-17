@@ -1,0 +1,1 @@
+Gain 1 action. 1/encounter.

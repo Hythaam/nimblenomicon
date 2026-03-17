@@ -1,0 +1,1 @@
+Whenever a minion dies, you may cast Shadow Blast as a reaction (even if you already cast it this turn).

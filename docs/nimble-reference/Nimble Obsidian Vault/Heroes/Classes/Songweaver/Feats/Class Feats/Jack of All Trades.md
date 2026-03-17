@@ -1,0 +1,1 @@
+When you Safe Rest, you may move a skill point as if you just leveled up.When you Safe Rest, you may move a skill point as if you just leveled up.

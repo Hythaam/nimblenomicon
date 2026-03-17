@@ -1,0 +1,1 @@
+Whenever you are attacked, set a Judgment Die to its max.

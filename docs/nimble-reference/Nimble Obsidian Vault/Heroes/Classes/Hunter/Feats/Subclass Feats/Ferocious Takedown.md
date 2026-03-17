@@ -1,0 +1,1 @@
+The hunt never ends. If you kill your Prey with Final Takedown, gain another use of Prey for the Pack.

@@ -1,0 +1,1 @@
+Your Vicious Mockery damage becomes 1d6+INT+ WIL.

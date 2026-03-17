@@ -1,0 +1,1 @@
+You can now survive an additional 4 Wounds before death.

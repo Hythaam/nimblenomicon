@@ -1,0 +1,1 @@
+While Raging, gain +2 speed. (1/round) you may move for free.

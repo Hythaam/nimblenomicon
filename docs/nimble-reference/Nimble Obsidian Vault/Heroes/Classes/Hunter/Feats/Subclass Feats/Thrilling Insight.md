@@ -1,0 +1,1 @@
+(KEY/encounter) Gain a Thrill of the Hunt charge when you successfully Assess your quarry.

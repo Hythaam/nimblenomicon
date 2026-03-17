@@ -1,0 +1,1 @@
+Action: Attack your Hampered quarry with a melee weapon, ignoring their armor or doubling your Hunter's Mark damage bonus if they have none.

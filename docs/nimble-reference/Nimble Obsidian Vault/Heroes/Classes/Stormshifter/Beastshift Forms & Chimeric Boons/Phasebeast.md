@@ -1,0 +1,1 @@
+Whenever you shift between this form and your normal form (and vice versa), you may teleport up to 6 spaces away to a place you can see.

@@ -1,0 +1,1 @@
+Attacks against you gain 1 instance of disadvantage for each Wound you have (max 3).

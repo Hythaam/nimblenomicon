@@ -1,0 +1,1 @@
+(1/turn) You may Taunt a creature you hit until the end of their next turn.

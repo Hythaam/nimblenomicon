@@ -1,0 +1,1 @@
+Target suffers 1 damage for each space it moves (or is moved). Level 10: 2 damage/space.

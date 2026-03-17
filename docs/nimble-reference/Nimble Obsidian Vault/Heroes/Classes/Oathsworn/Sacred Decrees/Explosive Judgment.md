@@ -1,0 +1,1 @@
+(1/encounter) 2 actions: Expend your Judgment Dice, deal that much radiant damage to all enemies in your aura.

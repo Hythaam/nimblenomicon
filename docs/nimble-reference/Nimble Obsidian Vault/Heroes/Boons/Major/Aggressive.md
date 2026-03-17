@@ -1,0 +1,1 @@
+On your first round of combat you can spend 1 Action from your next turn.

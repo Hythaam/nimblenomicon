@@ -1,0 +1,1 @@
+(1/encounter) Hurl a Thrown weapon with reckless abandon. This attack is an automatic crit, but breaks the weapon upon impact.

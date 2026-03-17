@@ -1,0 +1,2 @@
+You know cantrips from the Wind school and 1 other school of your choice. You also know the cantrip Vicious Mockery:
+- [[Vicious Mockery]]. (Wind cantrip) Action: Range: 12. Damage: 1d4+INT psychic (ignoring armor). On hit: the target is Taunted during their next turn. High Levels: +2 damage every 5 levels.

@@ -1,0 +1,1 @@
+While Raging, you grow one size category, and treat weapons you are proficient with as having Thrown 6.

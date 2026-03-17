@@ -1,0 +1,19 @@
+If you're a very creative GM or have creative heroes try out this variant rule!
+
+---
+
+Whenever you call for a particularly important or interesting skill check or save, instead of a binary "pass" or "fail" treat results **within 3** of the DC as a mixed result (Note: if you do use this rule, consider increasing the DCs by 1–2 to compensate). For example on a DC 13, a result of 13+ would be a complete success and 10–12 would be a mixed result:
+
+- **Negotiating.** The merchant can't help you, but knows someone who might…
+- **Jumping.** You fail to make the jump, but don't fall to your death, you're able grab hold of some roots by the ledge! If only you could pull yourself up…
+- **Lockpicking.** You unlock the door, but make noise, alerting nearby guards…
+- **Stealth.** You are spotted, but the enemy doesn't raise the alarm. A possible ally…?
+- **Magical Runes.** You can vaguely identify the rune, but attempting to disable it will result in an unpredictable effect…
+- **Diving for cover.** You make it to cover successfully, but drop an important item…
+- **Naturecraft.** You find the tracks but it leads through dangerous terrain…
+
+To retain agency and provide for more interesting choices, the consequences can even be presented as an option for the hero to choose whether they take it or fail:
+
+- "Your jump would fall just short. Would your hero fall into the dark pit or grab the roots—dropping whatever you were carrying in your hands/a random item in your pack?"
+- "This lock is proving too stubbon to pick easily. Do you force the lock open—breaking your lockpicks; or you try and find another way in?"
+- "You are clearly getting on this merchant's nerves. Do you insist on the lower price—in exchange for a permanent ban from his shop; or do you take his stated price?"

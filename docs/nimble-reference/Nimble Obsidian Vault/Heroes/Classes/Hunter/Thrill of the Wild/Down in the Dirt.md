@@ -1,0 +1,1 @@
+(1/round) Ignore the rushed attack penalty for a melee attack against a creature you are grappling

@@ -1,0 +1,1 @@
+Gain advantage on skill checks to find food and water in the wild.

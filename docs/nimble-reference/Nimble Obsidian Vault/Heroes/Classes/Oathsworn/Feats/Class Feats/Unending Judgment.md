@@ -1,0 +1,1 @@
+While you have no Judgment Dice, gain +5 damage to melee attacks.

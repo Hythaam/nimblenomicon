@@ -1,0 +1,1 @@
+Whenever you gain temp HP, gain 5 more.

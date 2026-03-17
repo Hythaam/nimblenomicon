@@ -1,0 +1,1 @@
+Your Swiftstrike can also target a 3rd creature within Reach 4.

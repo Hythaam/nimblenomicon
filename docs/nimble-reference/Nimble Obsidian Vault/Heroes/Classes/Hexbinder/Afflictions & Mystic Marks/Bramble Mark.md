@@ -1,0 +1,1 @@
+Action: Touch an ally and grant them an aura of mystical thorns (max 1 ally at a time). Attackers take damage equal to the ally's armor whenever they Defend. The thorns last for WIL attacks or 1 min.

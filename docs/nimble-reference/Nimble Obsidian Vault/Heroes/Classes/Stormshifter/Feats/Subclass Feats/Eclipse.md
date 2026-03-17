@@ -1,0 +1,1 @@
+Action (after shifting 2+ times during Cycle Eternal): Enter Eclipse Phase for KEY turns, then exit Cycle Eternal. While in Eclipse Phase, you gain the benefits of both Solar and Lunar Phase, may cast spells while in beastform, and may trigger Convergence once per turn as an action.

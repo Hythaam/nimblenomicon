@@ -1,0 +1,1 @@
+Regain 1 use of Searing Light when you roll Initiative (this expires if unspent at the end of combat).

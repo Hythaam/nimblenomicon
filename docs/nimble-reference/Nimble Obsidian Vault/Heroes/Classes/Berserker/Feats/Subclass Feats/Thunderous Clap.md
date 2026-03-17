@@ -1,0 +1,1 @@
+Action: Expend a Fury Die to unleash a shockwave. All enemies within Reach 2 take damage equal to the value of the die and are knocked Prone.

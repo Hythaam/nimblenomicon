@@ -1,0 +1,1 @@
+When you roll Initiative, you may use Hunter's Mark for free. Gain advantage on the first attack you make each encounter.

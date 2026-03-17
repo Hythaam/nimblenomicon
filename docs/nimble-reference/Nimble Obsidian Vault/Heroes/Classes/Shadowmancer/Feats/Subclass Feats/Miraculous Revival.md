@@ -1,0 +1,1 @@
+(1/Safe Rest) Reaction (when an ally gains Dying): Heal your ally for half of their max HP and 1 Wound. All enemies within Reach 2 of that ally become Blinded until the end of their next turn.

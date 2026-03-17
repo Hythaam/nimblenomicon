@@ -1,0 +1,1 @@
+Action: Attack with a ranged weapon. The next attack the target makes must be against the closest other creature, chosen at random.

@@ -1,0 +1,1 @@
+You unlock Fire spells. After upcasting a spell or critting in beastform, you may inflict Smoldering on a creature within Range 6.

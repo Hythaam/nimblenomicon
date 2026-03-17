@@ -1,0 +1,1 @@
+Your Patron grants you knowledge of Necrotic cantrips and tier 1 spells.

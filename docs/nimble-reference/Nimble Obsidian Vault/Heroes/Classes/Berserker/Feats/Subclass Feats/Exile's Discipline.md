@@ -1,0 +1,1 @@
+(KEY/encounter) Your first attack while Focused is an automatic crit and gains Vicious.

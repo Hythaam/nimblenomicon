@@ -1,0 +1,1 @@
+(1+ mana) Choose 1 creature per mana spent to be unaffected by a spell you cast.

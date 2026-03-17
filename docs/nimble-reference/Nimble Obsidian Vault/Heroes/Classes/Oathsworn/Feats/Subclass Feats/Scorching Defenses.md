@@ -1,0 +1,1 @@
+When you Defend against a melee attack, the attacker takes KEY fire damage (ignoring armor).

@@ -1,0 +1,1 @@
+Your Wind spells have advantage against Smoldering creatures.

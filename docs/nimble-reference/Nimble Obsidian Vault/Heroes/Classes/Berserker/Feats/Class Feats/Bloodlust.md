@@ -1,0 +1,1 @@
+Expend 1 or more Fury Dice on your turn, move DEX spaces per die spent for free.

@@ -1,0 +1,1 @@
+You can sense the presence of any shapechanger or creature concealed by magic while within 6 spaces of them.

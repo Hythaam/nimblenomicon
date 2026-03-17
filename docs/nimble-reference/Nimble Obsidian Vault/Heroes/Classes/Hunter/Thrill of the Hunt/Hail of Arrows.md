@@ -1,0 +1,1 @@
+(Half range) 2 actions: Shoot all creatures within a 3x3 area. Their speed is halved until the end of their next turn.

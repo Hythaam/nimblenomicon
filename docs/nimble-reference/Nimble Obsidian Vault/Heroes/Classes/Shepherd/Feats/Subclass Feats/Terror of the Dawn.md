@@ -1,0 +1,1 @@
+When you hit a Blinded creature with Searing Light, that creature becomes Frightened of you for the rest of the encounter.

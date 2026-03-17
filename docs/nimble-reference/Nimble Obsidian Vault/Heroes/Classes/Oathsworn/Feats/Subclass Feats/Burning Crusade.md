@@ -1,0 +1,1 @@
+(1/Safe Rest) Until the end of combat, you and all allies within your aura gain +KEY fire damage.

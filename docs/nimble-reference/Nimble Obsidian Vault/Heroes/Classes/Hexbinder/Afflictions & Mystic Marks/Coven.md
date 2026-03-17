@@ -1,0 +1,1 @@
+Choose 1 spell school a close ally knows, you can cast tiered spells from that school *(Healer of the Old Ways: non-Hexbinder healing spells cannot be Diminished)*.

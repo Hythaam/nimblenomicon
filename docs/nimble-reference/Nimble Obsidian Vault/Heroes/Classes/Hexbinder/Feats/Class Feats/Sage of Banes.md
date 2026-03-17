@@ -1,0 +1,1 @@
+Increase any 2 stats by 1. Hex and Misery apply 1 additional Affliction.

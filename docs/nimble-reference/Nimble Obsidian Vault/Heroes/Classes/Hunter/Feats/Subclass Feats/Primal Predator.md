@@ -1,0 +1,1 @@
+(1/encounter) Your weapon attacks ignore cover and armor this turn.

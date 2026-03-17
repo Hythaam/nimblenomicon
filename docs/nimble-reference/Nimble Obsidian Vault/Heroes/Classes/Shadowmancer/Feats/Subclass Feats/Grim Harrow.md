@@ -1,0 +1,1 @@
+When you strike with your Bonescythe, you may divide the dice as you choose amongst any number of adjacent targets within Reach.

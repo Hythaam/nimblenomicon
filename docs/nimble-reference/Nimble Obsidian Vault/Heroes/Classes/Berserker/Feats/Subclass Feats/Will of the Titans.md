@@ -1,0 +1,1 @@
+(1/Safe Rest) Free action: You become an unstoppable force of nature. Remove ALL conditions, and become immune to conditions until the start of your next turn.

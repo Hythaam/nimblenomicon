@@ -1,0 +1,1 @@
+Attacks against your shadow minions are made with disadvantage. They take no damage from successful saves.

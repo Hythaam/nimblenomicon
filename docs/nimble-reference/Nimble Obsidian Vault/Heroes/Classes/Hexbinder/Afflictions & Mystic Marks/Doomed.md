@@ -1,0 +1,1 @@
+(1/encounter) Maximize the next roll against Afflicted target.

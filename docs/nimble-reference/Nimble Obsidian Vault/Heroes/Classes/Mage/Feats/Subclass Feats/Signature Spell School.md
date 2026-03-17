@@ -1,0 +1,1 @@
+Select a Signature spell school from among the schools you know. (1/turn) Gain advantage when casting a Signature cantrip.

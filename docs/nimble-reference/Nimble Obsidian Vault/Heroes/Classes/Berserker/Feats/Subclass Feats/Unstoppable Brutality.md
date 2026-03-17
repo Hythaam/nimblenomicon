@@ -1,0 +1,1 @@
+While Raging, you may gain 1 Wound to reroll any attack or save.

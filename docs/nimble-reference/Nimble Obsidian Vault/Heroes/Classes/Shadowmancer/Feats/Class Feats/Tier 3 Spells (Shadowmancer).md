@@ -1,0 +1,1 @@
+You may now cast tier 3 spells; all of your spells are cast at this tier.

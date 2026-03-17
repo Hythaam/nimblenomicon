@@ -1,0 +1,1 @@
+Action: Expend a Fury Die to throw a creature you are Grappling up to STR spaces, plus one space for each size category that creature is smaller than you. This counts as forced movement.

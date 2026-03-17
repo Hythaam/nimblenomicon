@@ -1,0 +1,1 @@
+When using Lay on Hands, you may choose another creature within your aura to be healed for the same amount.

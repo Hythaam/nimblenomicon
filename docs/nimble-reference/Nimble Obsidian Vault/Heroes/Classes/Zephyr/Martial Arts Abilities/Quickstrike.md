@@ -1,0 +1,1 @@
+When you Interpose, you may first make an unarmed strike against the enemy for free.

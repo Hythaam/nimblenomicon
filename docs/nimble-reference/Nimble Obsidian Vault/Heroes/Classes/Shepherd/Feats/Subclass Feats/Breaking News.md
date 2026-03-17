@@ -1,0 +1,1 @@
+Your Lifebinding Spirit chimes like a bell and deals wind or radiant damage. When your Lifebinding Spirit crits, it gains 1 healing charge. Charges gained this way are lost at the end of the encounter if not used.

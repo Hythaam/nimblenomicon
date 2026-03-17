@@ -1,0 +1,1 @@
++1 to any 2 of your stats. Your Hunter's Mark can target any number of creatures simultaneously.

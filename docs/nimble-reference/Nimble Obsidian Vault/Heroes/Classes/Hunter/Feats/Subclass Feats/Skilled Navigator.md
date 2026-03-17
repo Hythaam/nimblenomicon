@@ -1,0 +1,1 @@
+You cannot become lost by nonmagical means.

@@ -1,0 +1,1 @@
+While you are Bloodied, gain advantage on the first attack you make each turn, and on all saves.

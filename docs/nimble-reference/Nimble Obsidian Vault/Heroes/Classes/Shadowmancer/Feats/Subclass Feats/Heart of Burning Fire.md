@@ -1,0 +1,1 @@
+Regain 1 use of Pilfered Power each time you roll Initiative. This expires at the end of combat if unused.

@@ -1,0 +1,1 @@
+1/ Safe Rest. Spend 10 minutes performing a ceremony to obtain information not otherwise available to you on a successful Insight check; rolled with disadvantage.

@@ -1,0 +1,1 @@
+Target has disadvantage 2 when attacking beyond Range/Reach 1.

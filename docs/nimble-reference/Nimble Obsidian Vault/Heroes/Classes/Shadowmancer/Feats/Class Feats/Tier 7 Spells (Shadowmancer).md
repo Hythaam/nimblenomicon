@@ -1,0 +1,1 @@
+You may now cast tier 7 spells; all of your spells are cast at this tier.

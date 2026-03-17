@@ -1,0 +1,1 @@
+If you would take any Wounds, you may become immune to them this turn instead. 1/Safe Rest.

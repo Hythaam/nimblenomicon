@@ -1,0 +1,1 @@
++1 to any 2 of your stats. The first tiered spell you cast each encounter costs 1 action less and 5 fewer mana.

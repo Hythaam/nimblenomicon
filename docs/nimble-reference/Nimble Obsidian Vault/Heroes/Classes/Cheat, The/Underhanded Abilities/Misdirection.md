@@ -1,0 +1,1 @@
+Gain INT armor. Whenever you Defend, you may halve the damage instead.

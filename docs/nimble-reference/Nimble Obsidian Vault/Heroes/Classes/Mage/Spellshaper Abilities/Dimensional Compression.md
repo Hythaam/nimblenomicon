@@ -1,0 +1,1 @@
+(1 or more mana) +4 range to a spell for each additional mana spent.

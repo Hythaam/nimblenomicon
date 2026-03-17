@@ -1,0 +1,1 @@
+(1/encounter) Action: All enemies Taunted or Charmed by you attack their closest target, friend or foe.

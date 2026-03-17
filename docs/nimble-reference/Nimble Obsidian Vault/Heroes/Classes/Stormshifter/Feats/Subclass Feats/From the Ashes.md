@@ -1,0 +1,1 @@
+(1/Safe Rest) Action (while Dying): Expend all remaining Hit Dice. You heal for the amount rolled, and deal that much fire damage to all adjacent enemies.

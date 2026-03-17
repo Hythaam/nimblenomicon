@@ -1,0 +1,1 @@
+(1/encounter) Reaction: Grant all allies with Instructions an extra action.

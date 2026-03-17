@@ -1,0 +1,1 @@
+When relaying an Instruction to an ally, they gain KEY Temp HP.

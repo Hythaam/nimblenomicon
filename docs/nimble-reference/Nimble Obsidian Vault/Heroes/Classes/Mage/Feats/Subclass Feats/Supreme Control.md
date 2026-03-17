@@ -1,0 +1,1 @@
+Whenever you Demand Control, you may choose to trigger the selected option twice. You may Demand Control as a Reaction.

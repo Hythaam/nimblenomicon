@@ -1,0 +1,1 @@
+When your shadow minions attack, instead of rolling damage, you may have any of them deal the max amount, then die.

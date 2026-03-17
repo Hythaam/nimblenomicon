@@ -1,0 +1,1 @@
+(1/day) You can ask a dead creature 3 yes/no questions. It can never be questioned this way again.

@@ -1,0 +1,1 @@
+Whenever you gain a Wound, gain a Burst of Speed.

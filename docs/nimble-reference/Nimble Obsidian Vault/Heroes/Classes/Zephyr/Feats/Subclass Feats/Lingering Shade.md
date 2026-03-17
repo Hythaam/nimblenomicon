@@ -1,0 +1,1 @@
+(KEY/encounter) When you use an action to move, you may spawn a Shade in the space you began your movement.

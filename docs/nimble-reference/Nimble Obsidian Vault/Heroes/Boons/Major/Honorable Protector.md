@@ -1,0 +1,1 @@
+Gain LVL temp HP whenever you Interpose. Suffer LVL psychic damage whenever an ally within 2 spaces is attacked and you don't Interpose.

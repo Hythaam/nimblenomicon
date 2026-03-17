@@ -1,0 +1,1 @@
+Choose the Ice or Radiant school to learn.

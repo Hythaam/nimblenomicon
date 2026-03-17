@@ -1,0 +1,1 @@
+When you roll Initiative you may give yourself and an ally advantage on the roll and +3 speed for 1 round.

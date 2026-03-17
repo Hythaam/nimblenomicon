@@ -1,0 +1,1 @@
+You embody the traits of the Spider Queen's brood. You have advantage against Slowed enemies, and ignore Difficult Terrain. You may change the damage type of your melee attacks to acid at will.

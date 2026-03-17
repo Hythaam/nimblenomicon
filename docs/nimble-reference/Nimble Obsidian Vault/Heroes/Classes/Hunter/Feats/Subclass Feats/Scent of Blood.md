@@ -1,0 +1,1 @@
+Gain both benefits of Hunter's Mark against Bloodied Prey.

@@ -1,0 +1,1 @@
+Double the Thrown values of weapons you are proficient with.

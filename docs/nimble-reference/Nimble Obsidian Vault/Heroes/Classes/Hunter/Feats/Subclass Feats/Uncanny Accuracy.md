@@ -1,0 +1,1 @@
+Your crits against your quarry are Vicious.

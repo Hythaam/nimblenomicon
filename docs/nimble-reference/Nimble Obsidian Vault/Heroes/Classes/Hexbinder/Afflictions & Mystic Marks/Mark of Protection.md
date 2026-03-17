@@ -1,0 +1,1 @@
+Creatures you heal can ignore 1 negative condition they would receive within the next minute.

@@ -1,0 +1,1 @@
+Spend 1 mana to gain flying for 1 hour (or until you fall). When crit while flying, you fall, landing Prone.

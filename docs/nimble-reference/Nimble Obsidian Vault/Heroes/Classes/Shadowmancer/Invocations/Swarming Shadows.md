@@ -1,0 +1,1 @@
+Whenever one of your shadows would crit, summon another shadow minion adjacent to the target.

@@ -1,0 +1,1 @@
+Reduce all damage you receive by an amount equal to the number of minions you have.

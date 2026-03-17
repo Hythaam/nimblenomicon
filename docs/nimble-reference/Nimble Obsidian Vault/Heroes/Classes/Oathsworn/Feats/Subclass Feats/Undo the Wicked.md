@@ -1,0 +1,1 @@
+When you damage an enemy with Radiant Judgment, they become Frightened of you on their next turn.

@@ -1,0 +1,1 @@
+(1/encounter) When you use Shadow Jump, all enemies adjacent to the targeted Shade are Blinded until the end of their next turn.

@@ -1,0 +1,1 @@
+Advantage on Perception and Assess checks. Unaffected by Blinded.

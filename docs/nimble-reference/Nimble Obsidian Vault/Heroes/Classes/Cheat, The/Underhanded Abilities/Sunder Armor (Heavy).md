@@ -1,0 +1,1 @@
+Req. Sunder Armor (Medium). Your Sunder Armor ability now also applies to enemies wearing heavy armor.

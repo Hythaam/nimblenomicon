@@ -1,0 +1,1 @@
+Spend 3 actions shooting your quarry. They are Restrained until they can escape (DC 10+WIL).

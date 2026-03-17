@@ -1,0 +1,1 @@
+After a creature you are riding makes a move action, add one space of forced movement in the direction of your choice. You may choose to stop riding the creature before this final movement.

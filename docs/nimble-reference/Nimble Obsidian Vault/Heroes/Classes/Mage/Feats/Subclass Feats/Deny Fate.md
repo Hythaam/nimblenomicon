@@ -1,0 +1,1 @@
+Whenever you miss with a spell or an effect you cause is saved against, you MUST Demand Control.

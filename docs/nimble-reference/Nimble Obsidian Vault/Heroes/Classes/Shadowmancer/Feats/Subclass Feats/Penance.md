@@ -1,0 +1,1 @@
+(KEY/Safe Rest) Until the end of your turn, damage dealt by your Shadow Blast and minions heal the target instead.

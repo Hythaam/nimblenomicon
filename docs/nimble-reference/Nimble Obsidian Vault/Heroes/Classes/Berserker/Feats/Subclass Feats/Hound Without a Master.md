@@ -1,0 +1,1 @@
+Gain advantage on DEX and WIL saves while Focused.

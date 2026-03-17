@@ -1,0 +1,1 @@
+(1/day) Force a creature you are touching to utter whatever is at the forefront of their mind, good or bad.

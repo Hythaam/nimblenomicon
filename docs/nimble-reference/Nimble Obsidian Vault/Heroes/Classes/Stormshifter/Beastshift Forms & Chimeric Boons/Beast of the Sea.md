@@ -1,0 +1,1 @@
+Can move, breathe, and fight underwater without penalty.

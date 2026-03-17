@@ -1,0 +1,1 @@
+Touch a willing creature and perceive through its senses instead of your own for as long as you hold concentration.

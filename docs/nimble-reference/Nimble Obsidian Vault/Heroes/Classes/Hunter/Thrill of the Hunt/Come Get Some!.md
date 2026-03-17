@@ -1,0 +1,1 @@
+Action: Attack a target. It is Taunted by you until the end of their next turn.

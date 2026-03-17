@@ -1,0 +1,1 @@
+(2xWIL times/Safe Rest) Free Reaction: Allow an ally to reroll a single die related to an attack or save (must keep either result).

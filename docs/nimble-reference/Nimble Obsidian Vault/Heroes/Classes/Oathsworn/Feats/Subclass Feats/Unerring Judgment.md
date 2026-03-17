@@ -1,0 +1,1 @@
+Increase your primary die rolls on melee attacks by 1 whenever you you have Judgment Dice.

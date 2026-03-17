@@ -1,0 +1,1 @@
+On death of target: creatures within Reach 2 of it suffer LVL damage (ignoring armor).

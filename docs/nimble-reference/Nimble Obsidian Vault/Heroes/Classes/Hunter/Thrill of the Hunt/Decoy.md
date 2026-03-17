@@ -1,0 +1,1 @@
+When you Defend: The attack misses instead, and you can move up to half your speed away (where you really were all along!).

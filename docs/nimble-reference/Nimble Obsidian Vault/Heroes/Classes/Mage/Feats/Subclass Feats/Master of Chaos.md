@@ -1,0 +1,1 @@
+Whenever you Invoke Chaos, roll with advantage.

@@ -1,0 +1,1 @@
+When an Afflicted creature misses an attack, they suffer the damage instead.

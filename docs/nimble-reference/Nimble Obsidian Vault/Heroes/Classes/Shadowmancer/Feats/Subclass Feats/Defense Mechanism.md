@@ -1,0 +1,1 @@
+When you Defend, you may sacrifice any number of shadow minions. Add KEY armor for each shadow minion sacrificed this way until the start of your next turn.

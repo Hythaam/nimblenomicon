@@ -1,0 +1,1 @@
+You can communicate telepathically with a humanoid within 6 spaces.

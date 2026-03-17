@@ -1,0 +1,1 @@
+Can walk across walls and ceilings; ignores difficult terrain.

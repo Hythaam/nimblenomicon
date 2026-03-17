@@ -1,0 +1,1 @@
+Gain Affinity with a damage type from among the spell you know. You do not gain disadvantage from adjacent enemies when casting Affinity spells.

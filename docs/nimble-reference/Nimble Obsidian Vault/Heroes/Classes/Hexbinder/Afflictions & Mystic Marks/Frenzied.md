@@ -1,0 +1,1 @@
+Target's first attack each round MUST be against the nearest random creature (acts first amongst monsters).

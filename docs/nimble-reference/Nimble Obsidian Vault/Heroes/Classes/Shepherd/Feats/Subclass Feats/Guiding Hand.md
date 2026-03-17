@@ -1,0 +1,1 @@
+You and adjacent allies gain Darkvision 6.

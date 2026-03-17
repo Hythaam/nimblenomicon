@@ -1,0 +1,1 @@
+(1/encounter) Deal LVL+WIL fire damage to all enemies with Smoldering within Range 6, ending the condition.

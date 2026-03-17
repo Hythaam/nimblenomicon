@@ -1,0 +1,1 @@
+Gain advantage with Hex at Reach 1.

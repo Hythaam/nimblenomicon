@@ -1,0 +1,1 @@
+(1/encounter) When a shadow minion Interposes for an ally, the attacker becomes Blinded until the end of its next turn.

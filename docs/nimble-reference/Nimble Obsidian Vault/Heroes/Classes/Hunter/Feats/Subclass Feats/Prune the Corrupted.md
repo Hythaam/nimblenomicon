@@ -1,0 +1,1 @@
+When your quarry crits you or an ally, regain a use of Wild Surge.

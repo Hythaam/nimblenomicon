@@ -1,0 +1,1 @@
++4 Reach for your Lifebinding Spirit. It can also act for free when summoned.

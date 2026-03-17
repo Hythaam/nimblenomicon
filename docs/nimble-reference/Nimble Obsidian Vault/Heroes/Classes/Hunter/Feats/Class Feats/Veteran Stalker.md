@@ -1,0 +1,1 @@
+Gain a Thrill of the Hunt charge whenever you are first Bloodied in an encounter and for every Wound you gain.

@@ -1,0 +1,1 @@
+If you miss for the 2nd time in a single round, you may change the primary die roll to any result instead.

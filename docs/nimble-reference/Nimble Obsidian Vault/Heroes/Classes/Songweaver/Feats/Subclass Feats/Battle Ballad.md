@@ -1,0 +1,1 @@
+When you Recite Legend, you and all allies within 12 spaces who can hear you gain advantage on their next attack.

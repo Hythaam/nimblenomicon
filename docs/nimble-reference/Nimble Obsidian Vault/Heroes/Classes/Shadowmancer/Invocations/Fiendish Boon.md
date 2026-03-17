@@ -1,0 +1,1 @@
+Increase your DEX or INT by 1. You have 1 fewer maximum Hit Dice.

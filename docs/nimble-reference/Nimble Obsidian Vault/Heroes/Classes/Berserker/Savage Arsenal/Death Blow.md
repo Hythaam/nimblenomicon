@@ -1,0 +1,1 @@
+After you deal damage from a crit, you may expend any number of Fury Dice. Sum the dice and deal double that amount of damage.

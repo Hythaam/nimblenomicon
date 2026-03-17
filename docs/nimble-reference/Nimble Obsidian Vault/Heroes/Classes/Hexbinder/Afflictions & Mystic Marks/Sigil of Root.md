@@ -1,0 +1,1 @@
+(1/encounter) Your Enfeebled affliction also Restrains for 1 round.

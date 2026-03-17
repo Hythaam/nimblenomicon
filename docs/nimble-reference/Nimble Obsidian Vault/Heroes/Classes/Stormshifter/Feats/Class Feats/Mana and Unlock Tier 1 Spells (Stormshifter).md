@@ -1,0 +1,1 @@
+You unlock tier 1 Wind and Lightning spells and gain a mana pool to cast these spells. This mana pool's maximum is always equal to (WILx3)+LVL and recharges on a Safe Rest.

@@ -1,0 +1,1 @@
+(1/day) Add LVL to any skill check related to nature or weather.

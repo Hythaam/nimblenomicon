@@ -1,0 +1,1 @@
+Your Patron is a power hidden in a deep recess of your mind. You gain proficiency with Leather armor and one type of weapon. Your shadow minions become fragments of your id made manifest. (1/turn) Action: Swap places with a shadow minion.

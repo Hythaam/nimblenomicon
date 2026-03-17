@@ -1,0 +1,1 @@
+(1/round) On your turn, you may suffer a Wound. Whenever you gain a Wound, you may Charm all enemies within Reach 2 until the end of their next turn.

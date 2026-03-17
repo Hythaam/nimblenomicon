@@ -1,0 +1,1 @@
+(1/encounter) Action: Restrain all Linked creatures (escape DC 10+KEY).

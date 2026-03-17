@@ -1,0 +1,1 @@
+When you Rage, you may enter a Focused stance. While Focused, your speed becomes 1 and you gain a Fury Die the first time each turn you are targeted by an attack. Your first attack while Focused has advantage and ends the stance.

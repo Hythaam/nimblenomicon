@@ -1,0 +1,1 @@
+You may now cast tier 2 Hexbinder spells.

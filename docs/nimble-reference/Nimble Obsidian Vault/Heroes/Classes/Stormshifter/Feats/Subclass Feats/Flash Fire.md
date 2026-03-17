@@ -1,0 +1,1 @@
+Inflict Smoldering when you crit with a Lightning spell.

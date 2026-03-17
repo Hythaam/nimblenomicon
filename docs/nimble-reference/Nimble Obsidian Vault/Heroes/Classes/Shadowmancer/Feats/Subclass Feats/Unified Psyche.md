@@ -1,0 +1,1 @@
+(1/Safe Rest) 3 actions: Swap places with one of your shadow minions and make an attack for free (melee/ranged/cantrip). Ignores Rushed Attack penalty. Repeat this for each shadow minion.

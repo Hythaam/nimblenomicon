@@ -1,0 +1,1 @@
+You may now cast tier 5 Hexbinder spells.

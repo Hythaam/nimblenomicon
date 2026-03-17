@@ -1,0 +1,1 @@
+While Dying, you cannot gain more than 1 Wound from a single instance, and ignore STR saves when casting spells.

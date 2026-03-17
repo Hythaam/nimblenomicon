@@ -1,0 +1,1 @@
+(2 mana) Reduce the action cost of a spell by 1 (min 1).

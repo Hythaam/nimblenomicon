@@ -1,0 +1,1 @@
+Gain +1 Reach on an attack and deal extra damage equal to 2x a roll of your Combat Die.

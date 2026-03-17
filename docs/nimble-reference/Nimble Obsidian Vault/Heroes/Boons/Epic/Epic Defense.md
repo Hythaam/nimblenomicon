@@ -1,0 +1,1 @@
+Your shields gain +3 Armor.

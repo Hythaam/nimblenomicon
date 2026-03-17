@@ -1,0 +1,1 @@
+Reaction (after an ally is crit within 12 spaces): Taunt that enemy until you drop to 0 HP.

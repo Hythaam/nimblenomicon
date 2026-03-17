@@ -1,0 +1,1 @@
+(1/encounter) When you crit a Linked creature, other Linked creatures become Frightened of you on their next turn.

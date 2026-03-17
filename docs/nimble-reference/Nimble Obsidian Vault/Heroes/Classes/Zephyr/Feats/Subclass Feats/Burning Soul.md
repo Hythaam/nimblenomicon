@@ -1,0 +1,1 @@
+Double any fire damage you deal.

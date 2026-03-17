@@ -1,0 +1,1 @@
+Choose a subclass and 1 Lesser Shadow Invocation.

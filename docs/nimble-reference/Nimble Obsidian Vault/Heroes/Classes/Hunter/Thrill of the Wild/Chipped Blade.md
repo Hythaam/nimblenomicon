@@ -1,0 +1,1 @@
+Melee attacks with any edged weapon are Vicious

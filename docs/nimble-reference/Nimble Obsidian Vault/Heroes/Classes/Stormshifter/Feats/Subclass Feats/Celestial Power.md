@@ -1,0 +1,1 @@
+When shifting between normal form and beastform, you may either deal KEY damage to all enemies within Reach 3, or grant KEY Temp HP to all allies within Reach 3.

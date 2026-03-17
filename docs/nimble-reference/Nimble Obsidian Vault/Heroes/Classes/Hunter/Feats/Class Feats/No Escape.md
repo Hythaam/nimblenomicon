@@ -1,0 +1,1 @@
+Whenever you see one or more allies make an opportunity attack, you may also make a ranged opportunity attack against the same target.

@@ -1,0 +1,1 @@
+(1/encounter) Reaction (when an ally is the target of a ranged attack): Knock the projectile out of the air, causing it to miss. The ally must be within range of your Thrown weapon.

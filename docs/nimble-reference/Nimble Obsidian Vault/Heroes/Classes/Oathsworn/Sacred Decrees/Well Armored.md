@@ -1,0 +1,1 @@
+Whenever you Interpose, gain temp HP equal to your STR.

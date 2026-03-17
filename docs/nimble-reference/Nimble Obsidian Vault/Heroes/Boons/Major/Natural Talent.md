@@ -1,0 +1,1 @@
+Learn 1 Cantrip in a school you don't know.

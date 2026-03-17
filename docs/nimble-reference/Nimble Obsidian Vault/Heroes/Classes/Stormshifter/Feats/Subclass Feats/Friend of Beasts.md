@@ -1,0 +1,1 @@
+Beasts will not attack you until you first harm them. You may transform into harmless beasts without spending a Beastshift charge.

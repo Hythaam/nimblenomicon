@@ -1,0 +1,1 @@
+Action: Leap up to 2xDEX spaces toward an enemy. If you land adjacent to at least 2 enemies, make an attack against 1 of them for free.

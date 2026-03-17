@@ -1,0 +1,1 @@
+Action: Link two creatures within Range 6 with an ethereal web. Linked creatures are Slowed. When you deal damage to a Linked creature, other Linked creatures take KEY damage (ignoring armor). You can maintain one thread.

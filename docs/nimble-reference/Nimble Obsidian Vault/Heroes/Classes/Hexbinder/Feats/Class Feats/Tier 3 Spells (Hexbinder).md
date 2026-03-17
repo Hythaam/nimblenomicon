@@ -1,0 +1,1 @@
+You may now cast tier 3 Hexbinder spells.

@@ -1,0 +1,1 @@
++1 to any 2 of your stats. Your Songweaver's Inspiration cannot fail (your target succeeds).

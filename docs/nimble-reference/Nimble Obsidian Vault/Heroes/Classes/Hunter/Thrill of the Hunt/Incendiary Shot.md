@@ -1,0 +1,1 @@
+(Half range) Action: Attack with a ranged weapon, add WIL d8 fire damage.

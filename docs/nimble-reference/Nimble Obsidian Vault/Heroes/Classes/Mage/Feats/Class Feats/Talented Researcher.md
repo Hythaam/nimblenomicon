@@ -1,0 +1,1 @@
+Gain advantage on Arcana or Lore checks when you have access to a large amount of books and time to study them.

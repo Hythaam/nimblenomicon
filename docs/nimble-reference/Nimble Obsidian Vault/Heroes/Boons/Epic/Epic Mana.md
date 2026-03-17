@@ -1,0 +1,1 @@
+Whenever you are healed, you may instead recover 1 mana for every 5 HP you would have been healed.

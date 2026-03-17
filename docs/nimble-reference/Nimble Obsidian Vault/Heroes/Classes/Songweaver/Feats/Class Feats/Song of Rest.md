@@ -1,0 +1,1 @@
+(1/ day) Whenever you Field Rest, you may play a song and allow anyone who spends Hit Dice to heal additional HP equal to your WIL.

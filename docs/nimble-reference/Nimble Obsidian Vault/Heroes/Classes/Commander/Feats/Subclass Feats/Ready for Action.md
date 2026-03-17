@@ -1,0 +1,1 @@
+Advantage on Initiative. You may Assess for free when rolling Initiative.

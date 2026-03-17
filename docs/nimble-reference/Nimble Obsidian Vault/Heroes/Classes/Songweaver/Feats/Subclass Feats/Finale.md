@@ -1,0 +1,1 @@
+(1/encounter) 2 actions: Sacrifice all non-Temp HP. Deal LVL psychic damage (ignoring armor) to all enemies within 12 spaces who can hear you, then recite all four Legends.

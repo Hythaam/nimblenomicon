@@ -1,0 +1,1 @@
+Whenever you roll for critical hit damage, you may replace one die with a d20.

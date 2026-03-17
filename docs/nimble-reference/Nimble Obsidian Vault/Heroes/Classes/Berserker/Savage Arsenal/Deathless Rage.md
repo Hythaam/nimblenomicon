@@ -1,0 +1,1 @@
+(1/turn) While Dying, you may suffer 1 Wound to gain 1 action.

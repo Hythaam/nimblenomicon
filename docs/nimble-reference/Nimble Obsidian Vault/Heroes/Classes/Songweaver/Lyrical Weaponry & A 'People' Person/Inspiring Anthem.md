@@ -1,0 +1,1 @@
+(1/encounter) Action: Grant all friendly Dying creatures who can hear you 1 HP and 1 action.

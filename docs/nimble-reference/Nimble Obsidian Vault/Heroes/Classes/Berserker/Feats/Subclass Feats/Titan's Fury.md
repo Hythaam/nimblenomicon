@@ -1,0 +1,1 @@
+After you miss an attack or are crit by an enemy, Rage for free.

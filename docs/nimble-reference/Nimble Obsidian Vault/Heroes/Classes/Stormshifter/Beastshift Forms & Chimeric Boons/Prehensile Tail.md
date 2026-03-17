@@ -1,0 +1,1 @@
+Creatures you hit in melee that are your size or smaller are Grappled. If you hit a larger creature, you may move with it when it moves.

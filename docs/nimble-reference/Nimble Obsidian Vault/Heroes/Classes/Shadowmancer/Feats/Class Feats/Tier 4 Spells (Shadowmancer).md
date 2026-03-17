@@ -1,0 +1,1 @@
+You may now cast tier 4 spells; all of your spells are cast at this tier.

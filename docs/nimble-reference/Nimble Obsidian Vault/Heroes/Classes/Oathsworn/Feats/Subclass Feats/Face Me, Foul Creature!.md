@@ -1,0 +1,1 @@
+When you Interpose, the attacking enemy is also Taunted by you until the end of their next turn.

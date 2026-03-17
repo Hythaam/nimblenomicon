@@ -1,0 +1,1 @@
+Summon a tiny fiend for 1 night. He can find out dangerous information you have no right to know! Or "take care" of a problem with only the slightest chance of things going wrong. Make an Influence check to convince him to help you (advantage if you ask him to do something he would find mischievous or fun; with disadvantage if it is something he would find good or menial).

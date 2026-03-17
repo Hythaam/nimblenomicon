@@ -1,0 +1,1 @@
+Action: You (or another willing creature you touch) exchange places with an Afflicted creature within Reach 8 (provided the Afflicted creature is no more than 1 size larger).

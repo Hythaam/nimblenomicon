@@ -1,0 +1,1 @@
+Gain a flying speed. Forced movement moves you twice as far while flying.

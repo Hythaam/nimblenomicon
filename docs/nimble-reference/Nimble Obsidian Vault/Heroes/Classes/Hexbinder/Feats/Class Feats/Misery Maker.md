@@ -1,0 +1,1 @@
+Increase the max number of Afflictions you can apply by 1.

@@ -1,0 +1,1 @@
+Advantage on saves against Fear, Charm, and Petrification.

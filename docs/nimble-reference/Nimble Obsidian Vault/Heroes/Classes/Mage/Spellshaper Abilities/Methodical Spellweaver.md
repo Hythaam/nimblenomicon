@@ -1,0 +1,1 @@
+(–2 mana) Spend 1 additional action to reduce the mana cost of a spell by 2 (min 1).

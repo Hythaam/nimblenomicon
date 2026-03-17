@@ -1,0 +1,1 @@
+Whenever you roll Judgment Dice, roll with advantage (roll one extra and drop the lowest).

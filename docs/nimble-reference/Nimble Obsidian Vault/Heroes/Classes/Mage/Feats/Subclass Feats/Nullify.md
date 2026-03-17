@@ -1,0 +1,1 @@
+(1/encounter) Ignore all disadvantage and other negative effects on your next action this turn, then Demand Control.

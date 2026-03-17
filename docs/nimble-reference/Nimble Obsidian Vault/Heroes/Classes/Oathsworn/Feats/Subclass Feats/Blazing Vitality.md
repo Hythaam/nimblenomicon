@@ -1,0 +1,1 @@
+When you heal with a spell or Lay on Hands, all enemies adjacent the healed target suffer fire damage equal to the amount healed (ignoring armor).

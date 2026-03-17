@@ -1,0 +1,1 @@
+When your Bonescythe crits, or kills a creature, summon a shadow minion for free.

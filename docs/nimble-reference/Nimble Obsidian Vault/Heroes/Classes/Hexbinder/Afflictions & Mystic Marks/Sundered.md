@@ -1,0 +1,1 @@
+Target's armor reduced 1 step.

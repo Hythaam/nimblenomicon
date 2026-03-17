@@ -1,0 +1,1 @@
+2 actions: Select any contiguous area within your weapon's Reach and damage ALL targets there. This attack does not miss on a 1.

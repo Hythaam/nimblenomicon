@@ -1,0 +1,1 @@
+(1/encounter) While Raging, if you would suffer your last Wound or other negative condition of your choice, you don't.

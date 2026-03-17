@@ -1,0 +1,1 @@
++1 to any 2 of your stats. Your Lifebinding Spirit rolls twice as many dice.

@@ -1,0 +1,1 @@
+When you roll Initiative you may cast Enchant Weapon for free (can be upcast as normal by spending additional mana).

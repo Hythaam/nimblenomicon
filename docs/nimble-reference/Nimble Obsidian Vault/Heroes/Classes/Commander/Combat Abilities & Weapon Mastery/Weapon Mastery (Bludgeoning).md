@@ -1,0 +1,1 @@
+When your primary die rolls a 7 or higher with a bludgeoning weapon, ignore Heavy Armor.

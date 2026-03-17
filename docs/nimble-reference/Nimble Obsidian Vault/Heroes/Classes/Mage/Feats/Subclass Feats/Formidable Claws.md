@@ -1,0 +1,1 @@
+Your unarmed strikes deal 1d6+KEY Affinity damage. You may spend mana (up to your highest unlocked spell tier) to add +KEY damage for each point of mana spent.

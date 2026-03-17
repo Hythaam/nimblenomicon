@@ -1,0 +1,1 @@
+Advantage on Stealth checks when you are at full health.

@@ -1,0 +1,1 @@
+(1/encounter) When you miss, you can crit instead.

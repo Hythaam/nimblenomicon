@@ -1,0 +1,1 @@
+Target's first attack each round against a friendly creature is made with disadvantage.

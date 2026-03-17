@@ -1,0 +1,1 @@
+You may apply Vicious Opportunist to Thrown weapons.

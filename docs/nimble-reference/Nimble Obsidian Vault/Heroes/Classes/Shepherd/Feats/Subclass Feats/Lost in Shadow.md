@@ -1,0 +1,1 @@
+When you or your Lifebinding Spirit hits a Blinded creature, you may forcibly move that creature up to 3 spaces.

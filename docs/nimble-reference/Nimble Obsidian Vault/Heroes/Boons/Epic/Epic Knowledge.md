@@ -1,0 +1,1 @@
+1/day, you can call upon a moment of profound insight to gain hidden knowledge about a legendary person or object.

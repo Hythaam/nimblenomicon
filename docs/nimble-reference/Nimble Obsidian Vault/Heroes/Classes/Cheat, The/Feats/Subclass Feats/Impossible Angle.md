@@ -1,0 +1,1 @@
+You can make Thrown attacks against enemies you are aware of, but do not have direct line of sight to (such as around corners or behind cover). The target is considered Distracted when attacked this way.

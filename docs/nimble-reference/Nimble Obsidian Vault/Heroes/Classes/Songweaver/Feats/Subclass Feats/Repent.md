@@ -1,0 +1,1 @@
+You may recover an additional Wound when you Safe Rest. +2 max Wounds.

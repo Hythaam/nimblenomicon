@@ -1,0 +1,1 @@
+Your Enfeebled Affliction also Dazes the target. You can inflict Doomed 2/encounter.

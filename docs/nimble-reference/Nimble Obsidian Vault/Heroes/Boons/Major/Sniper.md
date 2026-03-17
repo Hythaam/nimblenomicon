@@ -1,0 +1,1 @@
+Advantage on attacks when no enemy is adjacent to you; disadvantage otherwise.

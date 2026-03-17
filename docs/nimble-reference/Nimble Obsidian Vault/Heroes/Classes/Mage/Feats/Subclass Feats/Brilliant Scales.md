@@ -1,0 +1,1 @@
+Gain resistance to your Affinity and +KEY armor. Dragons are more likely to consider you a friend… or rival.

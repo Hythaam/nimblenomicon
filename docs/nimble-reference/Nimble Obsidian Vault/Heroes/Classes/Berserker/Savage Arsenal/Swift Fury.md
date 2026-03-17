@@ -1,0 +1,1 @@
+Whenever you gain one or more Fury Dice, move up to DEX spaces for free, ignoring difficult terrain.

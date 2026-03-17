@@ -1,0 +1,1 @@
+(1/day) You may reroll an Influence check.

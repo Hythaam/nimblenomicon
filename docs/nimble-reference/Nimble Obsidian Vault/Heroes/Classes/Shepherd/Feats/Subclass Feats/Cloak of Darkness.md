@@ -1,0 +1,1 @@
+Action: Spend a Searing Light charge to don a Cloak of Darkness for up to WIL turns. The Cloak inflicts Blinded on all adjacent enemies.

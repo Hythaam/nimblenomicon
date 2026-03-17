@@ -1,0 +1,1 @@
+(1/Safe Rest) Reaction (whenever you are attacked or would gain a condition), gain 10xLVL temp HP and end ALL negative conditions on yourself. At the end of your next turn, any remaining temp HP are lost.

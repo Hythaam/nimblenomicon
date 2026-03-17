@@ -1,0 +1,1 @@
+You have advantage on skill checks to track creatures.

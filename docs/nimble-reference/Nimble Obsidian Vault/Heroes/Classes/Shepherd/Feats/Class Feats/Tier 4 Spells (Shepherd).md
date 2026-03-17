@@ -1,0 +1,1 @@
+You may now cast tier 4 spells and upcast spells at tier 4.

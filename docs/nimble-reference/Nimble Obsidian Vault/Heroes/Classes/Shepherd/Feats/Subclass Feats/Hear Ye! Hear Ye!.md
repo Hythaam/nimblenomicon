@@ -1,0 +1,1 @@
+Your words carry an aura of importance when speaking in public. Spread joy with tidings of delight, or panic with portents of doom.

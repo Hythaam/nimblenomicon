@@ -1,0 +1,1 @@
+When an Afflicted creature dies, apply all of their Afflictions to another enemy within Reach 8 of them.

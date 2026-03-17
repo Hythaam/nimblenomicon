@@ -1,0 +1,1 @@
+You may spend 1 mana to ignore the Doomed Affliction's encounter limit.

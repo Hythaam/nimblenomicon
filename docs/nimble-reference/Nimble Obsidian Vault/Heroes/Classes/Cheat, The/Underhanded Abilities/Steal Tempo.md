@@ -1,0 +1,1 @@
+When you land a critical hit for the second time on a turn, your target loses 1 action and you gain 1 action.

@@ -1,0 +1,1 @@
+Action: Make an unarmed strike against an ally and infuse them with a portion of your own strength instead of harming them. Expend any number of Hit Dice and heal them as you would heal yourself during a Field Rest (roll them and add your STR to each).

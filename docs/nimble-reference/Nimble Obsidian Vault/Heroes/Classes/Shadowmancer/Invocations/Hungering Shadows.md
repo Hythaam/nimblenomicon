@@ -1,0 +1,1 @@
+Whenever one of your shadows would crit, the next tiered spell you cast this encounter does not cost a use of Pilfered Power.

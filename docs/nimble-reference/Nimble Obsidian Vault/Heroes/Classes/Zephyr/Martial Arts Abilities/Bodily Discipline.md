@@ -1,0 +1,1 @@
+You may spend 1 action to end any non-Wound condition on yourself.

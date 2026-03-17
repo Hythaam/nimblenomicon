@@ -1,0 +1,1 @@
+Selecting another Ancestry trait (if it makes sense) can make for a great Major Boon.

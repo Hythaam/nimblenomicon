@@ -1,0 +1,1 @@
+(1/turn) Suffer a Wound. Repeat the next spell you cast for free.

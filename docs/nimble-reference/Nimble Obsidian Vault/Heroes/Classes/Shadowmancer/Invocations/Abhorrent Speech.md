@@ -1,0 +1,1 @@
+You can communicate with horrible creatures (aberrations, undead, etc.).

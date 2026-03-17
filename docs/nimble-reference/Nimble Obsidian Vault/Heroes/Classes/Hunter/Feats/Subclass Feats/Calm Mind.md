@@ -1,0 +1,1 @@
+Gain advantage on Influence and Naturecraft checks when you Assess your quarry, as well as on skill checks related to monstrosities and corrupted beings.

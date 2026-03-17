@@ -1,0 +1,1 @@
+Action: Switch places with a creature within 12 spaces that has been dealt necrotic damage this turn.

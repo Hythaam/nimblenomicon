@@ -1,0 +1,1 @@
+Your minions gain +4 Reach and deal d10 damage instead.

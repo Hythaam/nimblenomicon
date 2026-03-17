@@ -1,0 +1,1 @@
+You may take 1 Wound to cast a tiered spell you know at the highest tier you have unlocked. 

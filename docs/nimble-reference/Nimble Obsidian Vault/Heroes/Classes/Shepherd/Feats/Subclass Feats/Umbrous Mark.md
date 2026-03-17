@@ -1,0 +1,1 @@
+Your Lifebrinding Spirit is marked by darkness and deals necrotic damage. When your Lifebinding Spirit damages an enemy, you may spend 1 healing charge to inflict Blinded until the end of their next turn.

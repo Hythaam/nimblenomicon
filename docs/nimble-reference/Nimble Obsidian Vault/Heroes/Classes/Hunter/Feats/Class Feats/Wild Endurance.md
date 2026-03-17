@@ -1,0 +1,1 @@
+Gain 1 Thrill of the Hunt charge at the start of your turns.

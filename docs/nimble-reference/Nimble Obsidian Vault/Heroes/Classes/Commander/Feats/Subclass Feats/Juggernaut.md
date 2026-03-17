@@ -1,0 +1,1 @@
+When you use Coordinated Strike, you deal extra damage equal to your armor, and you can add 1 to your primary die.

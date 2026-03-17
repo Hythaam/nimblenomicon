@@ -1,0 +1,1 @@
+When you expend Fury Dice to reduce incoming damage from an attack within melee reach, the attacker is hit for the amount reduced (ignores armor). Does not count as an attack.

@@ -1,0 +1,1 @@
+-KEY max mana. Gain 1d4 mana whenever you roll Initiative; this expires if unused at the end of combat.

@@ -1,0 +1,1 @@
+Your Coordinated Strike may target 1 additional ally. Gain +1 use of Coordinated Strike/Safe Rest.

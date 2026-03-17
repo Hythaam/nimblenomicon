@@ -1,0 +1,1 @@
+Whenever you Defend, you can sacrifice a shadow minion to take no damage.

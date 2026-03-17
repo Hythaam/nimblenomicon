@@ -1,0 +1,1 @@
+Allies within 2 spaces gain ALL the benefits of the shield you have equipped.

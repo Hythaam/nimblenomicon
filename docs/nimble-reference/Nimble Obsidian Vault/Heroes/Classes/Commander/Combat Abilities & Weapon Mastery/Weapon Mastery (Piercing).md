@@ -1,0 +1,1 @@
+Your attacks with piercing weapons ignore Medium Armor.

@@ -1,0 +1,1 @@
+Increase 3 different stats by 1.

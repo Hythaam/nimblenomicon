@@ -1,0 +1,1 @@
+Gain +5 to Initiative rolls and advantage on your first attack each encounter.

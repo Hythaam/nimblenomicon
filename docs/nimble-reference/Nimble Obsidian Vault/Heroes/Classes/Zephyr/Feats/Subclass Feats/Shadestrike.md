@@ -1,0 +1,1 @@
+(1/round) When you make an unarmed strike, you may dispel any number of Shades. You deal KEYx2 additional damage for each Shade dispelled this way.

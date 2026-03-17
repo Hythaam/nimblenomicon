@@ -1,0 +1,1 @@
+Your Songweaver's Inspiration also grants your target 1 additional action.

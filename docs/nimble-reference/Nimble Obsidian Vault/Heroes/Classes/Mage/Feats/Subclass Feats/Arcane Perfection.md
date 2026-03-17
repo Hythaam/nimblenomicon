@@ -1,0 +1,1 @@
+(1/Safe Rest) You may cast a Signature spell for free, including additional costs like upcasting or Spellshaper abilities.

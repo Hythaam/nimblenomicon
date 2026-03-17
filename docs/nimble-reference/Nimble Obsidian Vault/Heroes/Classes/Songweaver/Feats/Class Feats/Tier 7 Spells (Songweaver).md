@@ -1,0 +1,1 @@
+You may now cast tier 7 spells and upcast spells at tier 7.

@@ -1,0 +1,1 @@
+Whenever you mark a creature, you may also mark another creature within 6 spaces of them for free.

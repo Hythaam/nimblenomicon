@@ -1,0 +1,1 @@
+1/encounter. Whenever you would suffer damage or fail a save you can choose not to instead.

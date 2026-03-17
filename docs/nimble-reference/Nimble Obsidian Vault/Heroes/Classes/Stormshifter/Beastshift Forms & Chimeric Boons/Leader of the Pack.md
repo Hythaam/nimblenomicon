@@ -1,0 +1,1 @@
+Advantage against fear and charm effects for yourself and allies within 6 spaces.

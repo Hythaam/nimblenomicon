@@ -1,0 +1,1 @@
+2 actions: Deal KEY Affinity damage in either Cone 3 or Line 6. You may spend mana (up to your highest unlocked spell tier) to add +KEY damage for each point of mana spent. Half damage on a DEX save (DC 10+KEY).

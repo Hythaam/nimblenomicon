@@ -1,0 +1,1 @@
+(1/Safe Rest) If an attack would cause you to drop to 0 HP, you instead move up to your speed away and take no damage.

@@ -1,0 +1,1 @@
+(1/turn) While Raging, whenever you crit or kill an enemy, change 1 Fury Die to the maximum. 

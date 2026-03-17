@@ -1,0 +1,1 @@
+Gain an aura with a Reach of 4. Allies within your aura may use Condemning Strike and Blessed Aim on melee attacks if you spend mana on their behalf.

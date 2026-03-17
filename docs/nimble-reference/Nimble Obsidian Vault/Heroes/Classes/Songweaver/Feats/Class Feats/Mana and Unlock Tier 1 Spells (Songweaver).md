@@ -1,0 +1,1 @@
+You unlock tier 1 spells in the schools you know and gain a mana pool to cast them. This mana pool's maximum is always equal to (INTx3)+LVL and recharges on a Safe Rest.

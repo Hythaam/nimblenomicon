@@ -1,0 +1,1 @@
+Gain the Trickshot Underhanded Ability.

@@ -1,0 +1,1 @@
+Gain advantage on Initiative. Move 2xDEX spaces for free on your first turn each encounter.

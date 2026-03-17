@@ -1,0 +1,1 @@
+(1/Safe Rest) When you Field Rest, you may recover a Wound.

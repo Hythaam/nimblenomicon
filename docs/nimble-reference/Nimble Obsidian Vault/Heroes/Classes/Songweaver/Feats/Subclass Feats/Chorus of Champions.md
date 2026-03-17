@@ -1,0 +1,1 @@
+(1/encounter) Free Reaction: Give all party members 1 action.

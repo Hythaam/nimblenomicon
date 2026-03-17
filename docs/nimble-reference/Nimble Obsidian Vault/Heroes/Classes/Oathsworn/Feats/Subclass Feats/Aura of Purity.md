@@ -1,0 +1,1 @@
+Gain an aura with a Reach of 4. When an enemy within your aura crits you or an ally, that enemy gains Smoldering.

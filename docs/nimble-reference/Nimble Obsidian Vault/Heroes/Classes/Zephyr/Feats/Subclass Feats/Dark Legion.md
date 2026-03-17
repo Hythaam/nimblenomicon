@@ -1,0 +1,3 @@
+(1/round) On your turn, you may suffer a Wound. Whenever you roll Initiative or gain a Wound, you may spawn KEY Shades within Reach 6 of yourself. Shades are ethereal figures unaffected by damage. When you move, your Shades may move 2 at the same time.
+* **Unseen Blow.** When you attack, you may have a Shade perform the attack instead.
+* **Shadow Jump.** After using a Burst of Speed, you may teleport to a Shade as a free action, dispelling it in the process.

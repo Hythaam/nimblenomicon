@@ -1,0 +1,1 @@
+(1/Safe Rest) 2 actions: All enemies that can see you become Dazed, and must make a WIL save (DC 10+KEY) or become Blinded until your next turn.

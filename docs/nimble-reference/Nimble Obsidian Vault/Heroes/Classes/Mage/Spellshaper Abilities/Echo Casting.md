@@ -1,0 +1,1 @@
+(2xmana, min. 1 mana) When you cast a tiered, single-target spell, you may cast a copy of that spell on a 2nd target for free.

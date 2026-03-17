@@ -1,0 +1,1 @@
+Whenever you fail an Insight or Arcana check, you may suffer 1 Wound to succeed instead.

@@ -1,0 +1,50 @@
+Boons can be a great quest reward from a powerful patron (e.g., an elf queen, hearing of a hero's bravery, could bestow them with the Brave or Lionhearted Boon), a temporary buff (e.g., a tonic that gives Epic Speed for 1 hour), or you can allow players to take a Minor/Major Boon instead of a Secondary/Key stat increase.
+
+---
+
+# Minor Boons
+* [[Alert]]
+* [[Bright]]
+* [[Experienced]]
+* [[Feisty]]
+* [[Fiery]]
+* [[Intrepid]]
+* [[Skilled]]
+* [[Simple]]
+* [[Stand Tall]]
+
+# Major Boons
+* [[Ancestry Trait]]
+* [[Aggressive]]
+* [[Battle Hardened]]
+* [[Brave]]
+* [[Expansive Mind]]
+* [[Good Patient]]
+* [[Hardy]]
+* [[Honorable Protector]]
+* [[Lionhearted]]
+* [[Natural Talent]]
+* [[Resolute]]
+* [[Resilient]]
+* [[Smart, Not Book Smart]]
+* [[Sniper]]
+* [[Stalwart]]
+* [[Tenacious]]
+* [[Tough]]
+* [[Unflinching]]
+* [[Unnatural Talent]]
+* [[Veteran]]
+
+# EPIC Boons
+* [[Epic Agility]]
+* [[Epic Criticals]]
+* [[Epic Defense]]
+* [[Epic Foresight]]
+* [[Epic Knowledge]]
+* [[Epic Mana]]
+* [[Epic Mind]]
+* [[Epic Stamina]]
+* [[Epic Speed]]
+* [[Epic Stats]]
+* [[Epic Senses]]
+* [[Epic Resistance]]

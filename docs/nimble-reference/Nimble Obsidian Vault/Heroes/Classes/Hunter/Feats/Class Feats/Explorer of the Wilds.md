@@ -1,0 +1,1 @@
++2 speed; gain a climbing speed.

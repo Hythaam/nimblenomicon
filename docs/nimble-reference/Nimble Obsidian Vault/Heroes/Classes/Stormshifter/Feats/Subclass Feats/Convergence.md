@@ -1,0 +1,1 @@
+When you exit Cycle Eternal, all enemies within Reach 3 may be either pushed 3 spaces or pulled adjacent to you.

@@ -1,0 +1,1 @@
+When an ally within 4 spaces is crit, you may turn invisible until the end of your next turn and then move up to half your speed for free.

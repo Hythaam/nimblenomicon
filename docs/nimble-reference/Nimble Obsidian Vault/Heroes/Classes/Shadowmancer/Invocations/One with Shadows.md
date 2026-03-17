@@ -1,0 +1,1 @@
+Action: When you are in an area of dim light or darkness, you may become Invisible until you move or attack.

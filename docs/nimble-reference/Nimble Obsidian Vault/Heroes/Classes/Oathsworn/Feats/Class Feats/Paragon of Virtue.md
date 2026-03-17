@@ -1,0 +1,1 @@
+Advantage on Influence checks to convince someone when you are forthrightly telling the truth, disadvantage when misleading.
