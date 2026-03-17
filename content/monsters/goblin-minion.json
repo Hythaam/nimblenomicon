@@ -1,0 +1,6 @@
+{
+  "template": "monster",
+  "search_category": "monster",
+  "label": "Goblin Minion",
+  "content": "Lvl 1/4, Small, Stab: 1d6 (follows minion rules)"
+}

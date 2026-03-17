@@ -26,7 +26,6 @@ Content Cards are defined as JSON files, markdown files, or HTML files. For mark
   "template": "string",
   "search_category": "string",
   "label": "string",
-  "id": "string",
   "content": "string"
 }
 ```
