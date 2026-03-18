@@ -9,7 +9,7 @@ on:
 
 defaults:
   run:
-    working-directory: ./site/build
+    working-directory: ./site
 
 jobs:
   build:
