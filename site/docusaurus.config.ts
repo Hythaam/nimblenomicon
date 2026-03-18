@@ -11,11 +11,13 @@ const config: Config = {
     v4: true,
   },
 
-  url: 'https://nimblenomicon.com',
-  baseUrl: '/',
+  url: 'https://hythaam.githubpages.io',
+  baseUrl: '/nimblenomicon',
 
-  organizationName: 'nimblenomicon',
-  projectName: 'Nimblenomicon',
+  organizationName: 'hythaam',
+  projectName: 'nimblenomicon',
+  deploymentBranch: 'main',
+  trailingSlash: false,
 
   onBrokenLinks: 'warn',
   markdown: {
