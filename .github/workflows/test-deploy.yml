@@ -7,10 +7,6 @@ on:
     # Review gh actions docs if you want to further define triggers, paths, etc
     # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
 
-defaults:
-  run:
-    working-directory: ./site
-
 jobs:
   test-deploy:
     name: Test deployment
@@ -21,10 +17,12 @@ jobs:
           fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24
           cache: npm
 
       - name: Install dependencies
+        working-directory: ./site
         run: npm ci
       - name: Test build website
+        working-directory: ./site
         run: npm run build
