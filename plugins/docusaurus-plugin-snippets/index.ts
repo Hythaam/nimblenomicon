@@ -7,6 +7,7 @@ import { snippetPath } from '../../lib/reference/paths';
 
 export default function pluginSnippets(context: LoadContext): Plugin<SnippetRecord[]> {
   const snippetsDir = path.join(context.siteDir, 'docs', 'snippets');
+  const baseUrl = context.siteConfig.baseUrl || '';
 
   return {
     name: 'docusaurus-plugin-snippets',
@@ -18,7 +19,7 @@ export default function pluginSnippets(context: LoadContext): Plugin<SnippetReco
     async contentLoaded({ content: snippets, actions }) {
       const { addRoute, createData, setGlobalData } = actions;
 
-      const registry = buildTooltipRegistry(snippets);
+      const registry = buildTooltipRegistry(snippets, baseUrl);
       setGlobalData({ tooltipRegistry: registry });
 
       for (const snippet of snippets) {

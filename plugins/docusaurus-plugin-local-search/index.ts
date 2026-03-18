@@ -35,13 +35,13 @@ function extractTitle(source: string): string {
 }
 
 /** Recursively walk docs dir, skip snippets/, return DocSearchRecord[]. */
-function walkDocs(dir: string, siteDocsDir: string = dir): DocSearchRecord[] {
+function walkDocs(dir: string, baseUrl: string = '', siteDocsDir: string = dir): DocSearchRecord[] {
   const records: DocSearchRecord[] = [];
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
     const fullPath = path.join(dir, entry.name);
     if (entry.isDirectory()) {
       if (entry.name === 'snippets') continue;   // excluded from docs routes
-      records.push(...walkDocs(fullPath, siteDocsDir));
+      records.push(...walkDocs(fullPath, baseUrl, siteDocsDir));
     } else if (entry.name.match(/\.(mdx?|md)$/)) {
       const raw = fs.readFileSync(fullPath, 'utf-8');
       const title = extractTitle(raw);
@@ -62,8 +62,9 @@ function walkDocs(dir: string, siteDocsDir: string = dir): DocSearchRecord[] {
         .join(' › ');
 
       const id = rel.replace(/\//g, '__');
+      const fullUrl = baseUrl + urlPath;
 
-      records.push({ id, title, url: urlPath, breadcrumbs, body, headings });
+      records.push({ id, title, url: fullUrl, breadcrumbs, body, headings });
     }
   }
   return records;
@@ -71,6 +72,7 @@ function walkDocs(dir: string, siteDocsDir: string = dir): DocSearchRecord[] {
 
 export default function pluginLocalSearch(context: LoadContext): Plugin<void> {
   const snippetsDir = path.join(context.siteDir, 'docs', 'snippets');
+  const baseUrl = context.siteConfig.baseUrl || '';
 
   return {
     name: 'docusaurus-plugin-local-search',
@@ -80,7 +82,7 @@ export default function pluginLocalSearch(context: LoadContext): Plugin<void> {
 
       // ── Snippet index ────────────────────────────────────────────────────
       const snippets = loadAllSnippets(snippetsDir);
-      const snippetRecords = buildSnippetRecords(snippets);
+      const snippetRecords = buildSnippetRecords(snippets, baseUrl);
 
       const snippetIndex = lunr(function () {
         this.ref('id');
@@ -104,7 +106,7 @@ export default function pluginLocalSearch(context: LoadContext): Plugin<void> {
       // ── Docs index ───────────────────────────────────────────────────────
       // Walk docs/ and index all MDX/MD files directly from the filesystem.
       const docsDir = path.join(context.siteDir, 'docs');
-      const docRecords: DocSearchRecord[] = walkDocs(docsDir);
+      const docRecords: DocSearchRecord[] = walkDocs(docsDir, baseUrl);
 
       const docsIndex = lunr(function () {
         this.ref('id');

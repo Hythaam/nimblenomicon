@@ -12,12 +12,12 @@ export interface SnippetSearchRecord {
   tags: string;
 }
 
-export function buildSnippetRecords(snippets: SnippetRecord[]): SnippetSearchRecord[] {
+export function buildSnippetRecords(snippets: SnippetRecord[], baseUrl: string = ''): SnippetSearchRecord[] {
   return snippets.map(s => ({
     id: s.id,
     title: s.title,
     category: s.category,
-    url: snippetPath(s),
+    url: snippetPath(s, baseUrl),
     summary: s.summary,
     aliases: s.aliases.join(' '),
     body: s.body,

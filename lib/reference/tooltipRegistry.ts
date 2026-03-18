@@ -1,7 +1,7 @@
 import type { SnippetRecord, TooltipEntry } from './schema';
 import { snippetPath } from './paths';
 
-export function buildTooltipRegistry(snippets: SnippetRecord[]): Record<string, TooltipEntry> {
+export function buildTooltipRegistry(snippets: SnippetRecord[], baseUrl: string = ''): Record<string, TooltipEntry> {
   const registry: Record<string, TooltipEntry> = {};
   for (const s of snippets) {
     const entry: TooltipEntry = {
@@ -10,7 +10,7 @@ export function buildTooltipRegistry(snippets: SnippetRecord[]): Record<string, 
       category: s.category,
       summary: s.summary,
       tooltipBody: s.tooltipBody,
-      url: snippetPath(s),
+      url: snippetPath(s, baseUrl),
     };
     registry[s.id] = entry;
     for (const alias of s.aliases) {

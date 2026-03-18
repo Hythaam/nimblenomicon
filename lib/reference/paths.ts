@@ -1,5 +1,5 @@
 import type { SnippetRecord } from './schema';
 
-export function snippetPath(snippet: Pick<SnippetRecord, 'id' | 'category'>): string {
-  return `/reference/${snippet.category}s/${snippet.id}`;
+export function snippetPath(snippet: Pick<SnippetRecord, 'id' | 'category'>, baseUrl: string = ''): string {
+  return `${baseUrl}/reference/${snippet.category}s/${snippet.id}`;
 }

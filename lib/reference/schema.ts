@@ -1,3 +1,8 @@
+export interface ExternalLink {
+  label: string;
+  path: string;
+}
+
 export interface SnippetRecord {
   id: string;
   category: 'condition' | 'action' | 'keyword' | 'trait';
@@ -8,6 +13,7 @@ export interface SnippetRecord {
   tooltipBody: string;
   body: string;
   relatedIds: string[];
+  externalLinks?: ExternalLink[];
 }
 
 export type TooltipEntry = Pick<SnippetRecord, 'id' | 'title' | 'category' | 'summary' | 'tooltipBody'> & { url: string };
@@ -23,5 +29,13 @@ export function validateSnippet(data: unknown): SnippetRecord {
   if (typeof d.tooltipBody !== 'string') throw new Error(`Snippet ${d.id} missing tooltipBody`);
   if (typeof d.body !== 'string') throw new Error(`Snippet ${d.id} missing body`);
   if (!Array.isArray(d.relatedIds)) throw new Error(`Snippet ${d.id}: relatedIds must be array`);
+  if (d.externalLinks !== undefined) {
+    if (!Array.isArray(d.externalLinks)) throw new Error(`Snippet ${d.id}: externalLinks must be array`);
+    for (const link of d.externalLinks as unknown[]) {
+      const l = link as Record<string, unknown>;
+      if (typeof l.label !== 'string') throw new Error(`Snippet ${d.id}: externalLink missing label`);
+      if (typeof l.path !== 'string') throw new Error(`Snippet ${d.id}: externalLink missing path`);
+    }
+  }
   return d as unknown as SnippetRecord;
 }

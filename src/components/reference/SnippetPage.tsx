@@ -52,6 +52,18 @@ export default function SnippetPage({ snippet }: Props) {
             </ul>
           </div>
         )}
+        {snippet.externalLinks && snippet.externalLinks.length > 0 && (
+          <div className={styles.related}>
+            <h3>Learn More</h3>
+            <ul>
+              {snippet.externalLinks.map((link, idx) => (
+                <li key={idx}>
+                  <a href={link.path}>{link.label}</a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
       </div>
     </Layout>
   );

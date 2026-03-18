@@ -140,3 +140,14 @@ article h3 { font-size: 1.2rem; }
   font-weight: 700;
   letter-spacing: 0.02em;
 }
+
+/* Allow tooltips to overflow table cells */
+table {
+  overflow: visible;
+}
+
+table td,
+table th {
+  overflow: visible;
+  position: relative;
+}
