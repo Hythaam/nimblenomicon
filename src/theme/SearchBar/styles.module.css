@@ -21,6 +21,7 @@
   padding: 0.35rem 0.6rem;
   width: 160px;
   outline: none;
+  cursor: pointer;
 }
 
 .input::placeholder {

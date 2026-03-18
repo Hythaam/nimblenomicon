@@ -78,7 +78,7 @@ export default function pluginLocalSearch(context: LoadContext): Plugin<void> {
     name: 'docusaurus-plugin-local-search',
 
     async contentLoaded({ actions }) {
-      const { addRoute, createData } = actions;
+      const { addRoute, createData, setGlobalData } = actions;
 
       // ── Snippet index ────────────────────────────────────────────────────
       const snippets = loadAllSnippets(snippetsDir);
@@ -124,6 +124,14 @@ export default function pluginLocalSearch(context: LoadContext): Plugin<void> {
         'docs-store.json',
         JSON.stringify(docRecords)
       );
+
+      // ── Expose search data for navbar modal ───────────────────────────────
+      setGlobalData({
+        snippetsIndex: snippetIndex.toJSON(),
+        snippetsStore: snippetRecords,
+        docsIndex: docsIndex.toJSON(),
+        docsStore: docRecords,
+      });
 
       // ── /search route ────────────────────────────────────────────────────
       addRoute({

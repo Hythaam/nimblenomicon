@@ -96,6 +96,10 @@ const config: Config = {
           position: 'left',
           label: 'Setting',
         },
+        {
+          type: 'search',
+          position: 'right',
+        },
         // {
         //   to: '/search',
         //   label: '🔍 Search',
