@@ -63,7 +63,7 @@ const config: Config = {
       title: 'Nimblenomicon',
       logo: {
         alt: 'Nimblenomicon Logo',
-        src: 'img/logo.svg',
+        src: 'img/book-icon.png',
       },
       items: [
         {
@@ -96,11 +96,11 @@ const config: Config = {
           position: 'left',
           label: 'Setting',
         },
-        {
-          to: '/search',
-          label: '🔍 Search',
-          position: 'right',
-        },
+        // {
+        //   to: '/search',
+        //   label: '🔍 Search',
+        //   position: 'right',
+        // },
       ],
     },
     footer: {
