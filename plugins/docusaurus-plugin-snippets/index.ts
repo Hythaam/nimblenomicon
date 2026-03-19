@@ -28,7 +28,7 @@ export default function pluginSnippets(context: LoadContext): Plugin<SnippetReco
           JSON.stringify(snippet)
         );
         addRoute({
-          path: snippetPath(snippet),
+          path: snippetPath(snippet, baseUrl),
           component: '@site/src/components/reference/SnippetPage',
           exact: true,
           modules: {

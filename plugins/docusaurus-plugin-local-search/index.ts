@@ -135,7 +135,7 @@ export default function pluginLocalSearch(context: LoadContext): Plugin<void> {
 
       // ── /search route ────────────────────────────────────────────────────
       addRoute({
-        path: '/search',
+        path: `${baseUrl}/search`,
         component: '@site/src/components/search/SearchPage',
         exact: true,
         modules: {

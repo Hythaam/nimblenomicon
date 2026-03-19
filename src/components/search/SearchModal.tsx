@@ -130,7 +130,7 @@ export default function SearchModal({
 
   const handleSelectResult = useCallback(
     (url: string) => {
-      history.push(url);
+      history.push(url.replace('//', '/'));
       setQuery('');
       onClose();
     },
