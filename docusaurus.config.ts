@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Nimblenomicon',
-  tagline: 'The official Nimble TTRPG rules reference',
+  tagline: 'An Online Nimble TTRPG rules reference',
   favicon: 'img/favicon.ico',
 
   future: {
